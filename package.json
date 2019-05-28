@@ -1,0 +1,18 @@
+{
+  "name": "vita-check",
+  "main": "./lib/vita-check",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "vita-check:toggle"
+  },
+  "repository": "https://github.com/atom/vita-check",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

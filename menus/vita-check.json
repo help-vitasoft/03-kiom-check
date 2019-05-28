@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle vita-check",
+        "command": "vita-check:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "vita-check",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "vita-check:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
