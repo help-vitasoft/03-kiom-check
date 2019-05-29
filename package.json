@@ -2,13 +2,13 @@
   "name": "vita-check",
   "main": "./lib/vita-check",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "help-vitasoft",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "vita-check:toggle"
   },
-  "repository": "https://github.com/atom/vita-check",
+  "repository": "https://github.com/help-vitasoft/vita-check",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

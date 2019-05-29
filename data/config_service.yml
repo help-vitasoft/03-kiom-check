@@ -1,0 +1,48 @@
+- vomlue_id: 1
+  service:
+    ORginal: True
+    Ancient_Korean: False
+    KOrean: admin
+    EXplanation: False
+    ENglish: editor
+  translator: 김형준
+  permission:
+    editor: [aaabbb@hanmail.net, 23@gmail.com]
+    meta_mean:
+    meta_prescription:
+
+- vomlue_id: 2
+  service:
+    ORginal: True
+    Ancient_Korean: False
+    KOrean: admin
+    EXplanation: False
+    ENglish: editor
+  translator: 김형준
+  permission:
+    editor: [aaabbb@hanmail.net]
+    meta_mean:
+    meta_prescription:
+
+- vomlue_id: 3
+  service:
+    ORginal: True
+    KOrean: admin
+  translator: 김형준
+  permission:
+    editor: aaabbb@hanmail.net
+    meta_mean:
+    meta_prescription:
+
+- vomlue_id: 4
+  service:
+    ORginal: True
+    Ancient_Korean: False
+    KOrean: admin
+    EXplanation: False
+    ENglish: editor
+  translator: 김형준
+  permission:
+    editor: aaabbb@hanmail.net
+    meta_mean:
+    meta_prescription:
