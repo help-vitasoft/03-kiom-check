@@ -1,0 +1,618 @@
+- contents_id: 746f0bae12199ecb3ecc9dd2c2231abf2cda69d7d3c2f29d083075e664594a25
+  tagname: h1
+  OR: 內景篇卷之一
+  KO: 내경편 권1
+  EN: Internal Bodily Elements, Volume 1
+
+- contents_id: c59d340c715c7e682a96d5e21fc1c460570c7e32735ae0dc143729dc723cd8cb
+  tagname: p1
+  OR: 御醫 忠勤貞亮扈聖功臣 崇祿大夫 陽平君 <small>臣</small> 許浚奉敎撰
+  KO: 어의 충근정량호성공신 숭록대부 양평군 허준이 하교를 받들어 짓습니다.
+  EN: Written by the order of the King, by Court Physician, Diligently Loyal Vassal of Merit, Grand Master for Esteemed Merit, Lord Yangpyung, Heo Jun
+  NOTE:
+    "[^1]: 동의보감 내경편 권3 구토 부분(https://mediclassics.kr) 및 네이버(https://naver.com) 참조
+    [^2]: 본래는 어디에 있던 것을 가독성을 위하여 이동하였다."
+
+- contents_id: e371ca9b8eb7dad97ea657739efe6cba54fffa21dd6962182c402480a6d3c151
+  tagname: h2
+  OR: 東醫寶鑑序[^1]
+  KO: 동의보감 서문[^2]
+  EN: Preface
+
+- contents_id: 746f0bae12199ecb3ecc9dd2c2231abf2cda69d7d3c2f29d083075e664594a25
+  tagname: h1
+  OR: 內景篇卷之一
+  KO: 내경편 권1
+  EN: Internal Bodily Elements, Volume 1
+
+- content_id: "hashcode"
+  tagname: "p1"
+  class: "['desc']"
+  OR: "御醫 忠勤貞亮扈聖功臣 崇祿大夫 陽平君 <small>臣</small> 許浚奉敎撰"
+  KO: "어의 충근정량호성공신 숭록대부 양평군 허준이 하교를 받들어 짓습니다."
+  EN: "Written by the order of the King, by Court Physician, Diligently Loyal Vassal of Merit, Grand Master for Esteemed Merit, Lord Yangpyung, Heo Jun"
+  ET:
+    OR: "註釋書 實驗"
+    KO: "주석서 테스트"
+    EN: "test"
+
+- contents_id: fc23d08cac443d2706a6ad48a16f551936ad201087c5d81b3a9d9a0e2227b003
+  tagname: p2
+  OR: <lg>醫者</lg>雅言軒岐, <3243.png>軒岐上窮天紀, 下極人理, 宜不屑乎記述, 而猶且說問著難, 垂法後世, 則醫之有書, 厥惟遠哉. 上自倉越, 下逮劉張朱李, 百家繼起, 論說紛然, 剽竊緖餘, 爭立門戶, 書益多而術益晦, 其與靈樞本旨不相逕庭者鮮矣. 世之庸醫, 不解窮理, 或倍經訓而好自用, 或泥故常而不知變, 眩於裁擇, 失其關鍵, 求以活人而殺人者多矣.
+  KO: 의사들은 항상 헌원(軒轅)과 기백(岐伯)을 말합니다. 헌원과 기백은 위로는 하늘의 법도를 통달하고 아래로는 세상의 이치를 모두 깨달았으니 글로써 기술하는 것을 달갑게 여기지 않았을 것입니다. 그런데도 물음에 답하고 어려운 것을 기록하여 후세에 법을 드리웠으니 의가(醫家)에 책이 나온 지 오래되었습니다. 위로는 창공(倉公, 淳于意)ㆍ진월인(秦越人, 扁鵲)으로부터 아래로는 유완소ㆍ장종정ㆍ주진형ㆍ이고에 이르기까지 많은 의가들이 연이어 일어나 논설이 분분하였고 남겨진 실마리를 표절하여 다투어 문호를 세웠으나, 책이 많아질수록 의술은 더욱 어두워져 《영추(靈樞)》의 본지와 어긋나는 경우가 많았습니다. 세상의 용렬한 의사들은 이치를 제대로 연구하지 않습니다. 그래서 어떤 사람은 경전의 뜻을 어겨 제멋대로 하고, 어떤 사람은 관습에 빠져 융통성을 발휘하지 못합니다. 그 결과 판단을 명확하게 내리지 못하고 요점을 잃어 사람을 살리려고 하다가 죽이는 경우가 많습니다.
+  EN: Those of the medical profession often mention Huangdi and Qibo. Huangdi and Qibo studied the frames of the sky above and the natures of men below, and would not have thought it appropriate to record and describe medicine. Yet they shared questions and left records of complicated subjects that provided later generations with medical methods. This is how medical books have come to exist from our predecessors. From Changgong and Qin Yueren of antiquity to Liu Hejian, Zhang Zihe, Zhu Danxi, and Li Dongyuan of the recent past, countless schools have risen and theories have appeared, but the medical arts became more obscure and there were many cases <small>among them</small> that lost the original meanings of the Divine Pivot (靈樞). Many mediocre doctors disregard the fundamentals and arbitrarily practice medicine, running counter to the spirit of the classics, or lose the key substance by adhering to the old without versatility and straying with no criteria. This is why some kill instead when they are trying to save people.
+
+- contents_id: 2f8dc6a0535ea8450ed3c7f011b229369ed7b17a492f7764a1bed917be6926cd
+  tagname: p3
+  OR: 食積在中下脘者, 宜下以逐之, 木香見睍丸ㆍ丁香脾積丸. 宿食吐下後未淨者, 紅元子<small>方見積聚</small>ㆍ保和丸ㆍ大安丸<small>二方幷見積聚</small>ㆍ平補枳朮丸<small>卽竹瀝枳朮丸也. 方見痰飮</small>.
+  KO: 식적이 중완이나 하완에 있을 때는 설사시켜 몰아내어야 하니 목향견현환ㆍ정향비적환을 쓴다. 숙식(宿食)을 토하게 하거나 설사시킨 뒤 아직 완전히 낫지 않았을 때는 홍원자<small>처방은 적취문에 나온다</small>ㆍ보화환ㆍ대안환<small>두 처방은 모두 적취문에 나온다</small>ㆍ평보지출환<small>곧 죽력지출환이다. 처방은 담음문에 나온다</small>을 쓴다.
+  EN: When food accumulation is in the middle or lower abdomen, diarrhea must be induced to release it; use an Aucklandia Beautiful Pill and Cloves Pill for Spleen Accumulation. When the disease is not cured completely even after inducing vomiting or diarrhea, use Red Balls <small>the prescription is mentioned in the Chapter Accumulation</small>, Preserve Harmony Pill, Great Calm Pill <small>Both prescriptions are mentioned in the Chapter Accumulation</small>, Calm and Tonify Unripe Bitter Orange and Atractylodes Pill <small>Also a Bamboo Sap and Atractylodes Pill. The prescription is mentioned in the Chapter Accumulation</small>.
+
+- contents_id: 55ffeda0c52c40975fd4fdfacf48a72a785dd4a4520375d21cc1060e14951df8
+  tagname: p3
+  OR: 傷肉多腹脹, 三補丸<small>方見火門</small>, 加香附ㆍ半夏麴, 蒸餠和丸服. <small>《入門》</small>
+  KO: 고기를 많이 먹어 상하면 배가 더부룩하다. 삼보환<small>처방은 화문에 나온다</small>에 향부자ㆍ반하국을 넣고 증편에 반죽하여 환을 만들어 먹는다. <small>《입문》</small>
+  EN: When one is damaged from too much meat, the abdomen feels too full. Add <i>Cyperi Rhizoma</i> (香附子) and <i>Pinelliae Tube Fermentata</i> (半夏麴) to a Triple Tonification Pill <small>the prescription is mentioned in the Chapter Fire</small>, mix the dough, and make pills to take as medicine. <small>B146</small>
+
+- contents_id: bc1981bd5b04e9372babfac001c56c6ce736596d8e3f8008f741de36fb7121ea
+  tagname: p3
+  OR: 宿食消化, 宜用枳朮丸ㆍ橘皮枳朮丸ㆍ木香枳朮丸ㆍ半夏枳朮丸ㆍ麴糵枳朮丸ㆍ橘半枳朮丸ㆍ橘連枳朮丸ㆍ三黃枳朮丸ㆍ平胃散<small>方見五藏</small>ㆍ香砂平胃散ㆍ加味平胃散ㆍ棗肉平胃散ㆍ內消散ㆍ消滯丸ㆍ加減保和丸ㆍ七香元ㆍ枳實導滯丸ㆍ木香化滯湯ㆍ豆蔲橘紅散ㆍ香殼丸ㆍ二黃丸ㆍ三稜消積丸ㆍ穀神元. <small>《諸方》</small>
+  KO: 숙식(宿食)을 소화시키려면 지출환ㆍ귤피지출환ㆍ목향지출환ㆍ반하지출환ㆍ국얼지출환ㆍ귤반지출환ㆍ귤련지출환ㆍ삼황지출환ㆍ평위산<small>처방은 오장문에 나온다</small>ㆍ향사평위산ㆍ가미평위산ㆍ조육평위산ㆍ내소산ㆍ소체환ㆍ가감보화환ㆍ칠향원ㆍ지실도체환ㆍ목향화체탕ㆍ두구귤홍산ㆍ향각환ㆍ이황환ㆍ삼릉소적환ㆍ곡신원을 써야 한다. <small>《제방》</small>
+  EN: To digest retained food, use a Bitter Orange and Atractylodes Pill, Aurantii Pericarpium, Aaurantii Immaturus Fructus, and Atractylodes Pill, Aucklandia, Aaurantii Immaturus Fructus, and Atractylodes Pill, Pinellia, Aaurantii Immaturus Fructus, and Atractylodes Decoction, Aaurantii Immaturus Fructus and Atractylodes Medicated Leaven Pill, Tangerine, Pinellia, Aaurantii Immaturus Fructus, and Atractylodes Pill, Tangerine, Forsythia, Aaurantii Immaturus Fructus, and Atractylodes Pill, Three Yellows, Aaurantii Immaturus Fructus, and White Atractylodes Pill, Calm Stomach Powder <small>the prescription is mentioned in the Chapter Five Viscera and Six Bowels</small>, Aucklandia and Amomum Calm Stomach Powder, Augmented Calm Stomach Powder, Jujube Calm Stomach Powder, Call and Wake Powder, Eliminate Stagnation Pill, Modified Preserve Harmony Pill, Seven Fragrant Substances Formula, Aaurantii Immaturus Fructus Guide Out Stagnation Pill, Aucklandia Dissolve Stagnation Decoction, Cardamom and Citri Grandis Rubrum Exocarpium Powder, Aucklandia and Ponciri Fructus Pericarpium Pill, Scutellaria and Coptis Pill, Sparganium Eliminate Accumulation Pill and Eliminate Spirits Formula. <small>B226</small>
+
+- contents_id: 533e425e8ad2ce26ad959abf83c343d8fef85a054aa0d2dd4a2b2fcf03036ea9
+  tagname: p3
+  OR: 食麥多令人腹脹, 煖酒和薑汁, 飮一兩盃卽消. <small>《得效》</small>
+  KO: 보리밥을 많이 먹어서 배가 더부룩할 때는 따뜻한 술에 생강즙을 타서 1～2잔 먹으면 소화된다. <small>《득효》</small>
+  EN: When a person feels full from eating barley, add ginger juice to alcohol and drink 1-2 cups of it. <small>B090</small>
+
+- contents_id: ea0ccd44e27a52e0d461f249ee870323fe97e412cfeaeda800822e40c07a9463
+  tagname: h4
+  OR: 枳朮丸
+  KO: 지출환
+  EN: Bitter Orange and Atractylodes Pill
+
+- contents_id: 1b671a7b5a20a84255f8aa56138ebecc90a364642a50ac17960961aa2fe9ce09
+  tagname: p4
+  OR: 治痞, 消食, 强胃. 白朮 二兩, 枳實(麩炒) 一兩. 右爲末, 荷葉裹燒飯和丸梧子大, 熟水下五七十丸至百丸.
+  KO: 명치가 막혀서 답답한 것을 치료하고 음식을 소화시키며 위(胃)를 든든하게 한다. 백출 2냥, 지실(밀기울로 볶는다) 1냥. 이 약들을 가루내고 연잎으로 싸서 지은 밥에 반죽하여 오자대로 환을 만든다. 끓인 물에 50～70알에서 100알까지 먹는다.
+  EN: Treats stuffiness in the pit of the stomach, digests food, and makes the stomach healthy. Use 2 nyangs of <i>Atractylodis Rhizoma Alba</i> (白朮) and 1 nyang of <i>Ponciri Fructus Immaturus</i> (枳實) (fried with bran). Grind these into powder, mix with rice made with lotus leaf wrapping, and make pills in the size of a seed of a foxglove tree. Take 50-70 to 100 pills with boiled water.
+
+- contents_id: 43eafa59443f1857bc8578b3e88cec1dac1b951d23673eb911138f421e612d6f
+  tagname: p4
+  OR: 或爲人所勸勉, 過食致傷, 但服此, 令胃氣强, 不復傷也.
+  KO: 다른 사람이 억지로 많이 먹게 하여 상했을 때는 이 약만 먹어 위기(胃氣)를 든든하게 하면 다시 상하지 않는다.
+  EN: When a person is damaged from eating against one＂s own will, take only this medicine to make stomach qi healthy, and one will not become hurt again.
+
+- contents_id: b3b98611c9457ba6f1669af4b336c41405ced44a005ac89136a8155043613e3e
+  tagname: p4
+  OR: 本仲景方, 枳朮湯也. 至易老, 改爲丸, 名曰枳朮丸. <small>《東垣》</small>
+  KO: 본래 중경의 처방에서는 지출탕이었는데 역로가 환으로 고쳐서 지출환이라고 하였다. <small>《동원》</small>
+  EN: In the prescriptions of Zhongjing (仲景), it was a Bitter Orange and Atractylodes Decoction. Zhang Yilao (易老) changed it into pills, and it is now called a Bitter Orange and Atractylodes Pill. <small>B215</small>
+
+- contents_id: fbe046be7c70c6594de6f62c9293ebb77c780d9ed38d920213912ebb90f40744
+  tagname: h4
+  OR: 橘皮枳朮丸
+  KO: 귤피지출환
+  EN: Aurantii Pericarpium, Aaurantii Immaturus Fructus, and Atractylodes Pill
+
+- contents_id: 707a667ffd05789f0117e92210d22236dad016bcb91a2ceed2534d05ac0e0988
+  tagname: p4
+  OR: 治飮食不消, 心下痞悶. 本方, 加橘皮 一兩, 製法服法同上.
+  KO: 음식이 소화되지 않고 명치가 막혀서 답답한 경우를 치료한다. 지출환에 귤피 1냥을 넣은 것이다. 만드는 법과 복용법은 앞과 같다.
+  EN: Treats indigestion and stuffiness in the pit of the stomach. Add 1 nyang of <i>Citrus Unshius Pericarpium</i> (橘皮) to a Bitter Orange and Atractylodes Pill. The method of making is the same.
+
+- contents_id: b4ac138499af30b517c2a9b51ec586e0503a25a04bd38c3ee2f81b4c7fc55ac1
+  tagname: p4
+  OR: 用藥大法所貴, 服之强人胃氣令益厚, 雖猛食多食重食, 而不復致傷也.
+  KO: 약을 쓰는 법에서 중요하게 여기는 것은 약을 먹고 위기(胃氣)를 든든하게 만들어 급히 먹거나 많이 먹거나 거듭 먹더라도 또다시 상하지 않도록 하는 것이다.
+  EN: The important point of using medicine is taking the medicine and making stomach qi healthy, which makes a person not get hurt again even after eating fast or too much or repeatedly.
+
+- contents_id: 10079d88eb296a7960c5eaedaca1b153fcc795a6591cfa869a747dfdd8f5ab39
+  tagname: p4
+  OR: 枳朮丸, 乃易老張先生之所制. 用白朮二兩以補脾, 枳實一兩以消痞, 至東垣, 加陳皮一兩以和胃. 一補一瀉, 簡而又當, 眞得立方之旨也. <small>《丹心》</small>
+  KO: 지출환은 장역로 선생이 만든 것이다. 백출 2냥으로 비를 보하고, 지실 1냥으로 명치가 막혀 답답한 것을 없애는 것이다. 동원은 여기에 진피 1냥을 더하여 위(胃)를 조화롭게 하였다. 한편으로는 보하고 한편으로는 사하여 간결하면서도 알맞으니 참으로 처방을 세우는 요점을 터득한 것이다. <small>《단심》</small>
+  EN: The Bitter Orange and Atractylodes Pill was created by Zhang Yilao (易老). With 2 nyangs of <i>Atractylodis Rhizoma Alba</i> (白朮), tonify the spleen. With 1 nyang of <i>Ponciri Fructus Immaturus</i> (枳實) it treats stuffiness in the pit of the stomach. Dongyuan (東垣) added 1 nyang of <i>Citrus Unshius Pericarpium</i> (陳皮) to harmonize the stomach. Tonification and purgation are simple yet correct; it is truly the result of knowing the rules of making prescription. <small>B073</small>
+
+- contents_id: 137a99b81e4a0e34f350c3c3abdf3da5d8e68c3d72bea99e74bdb1956ebcc0f6
+  tagname: h4
+  OR: 木香枳朮丸
+  KO: 목향지출환
+  EN: Aucklandia, Aaurantii Immaturus Fructus, and Atractylodes Pill
+
+- contents_id: 0e3a30d42b91462862fec61081b9f484acd7bd5cf8c91f1e36185dcc1e2271bb
+  tagname: p4
+  OR: 消飮食, 破滯氣. 本方, 加木香 一兩, 製法服法同上. <small>《東垣》</small>
+  KO: 음식을 소화시키고 체기(滯氣)를 뚫는다. 지출환에 목향 1냥을 넣은 것이다. 만드는 법과 복용법은 앞과 같다. <small>《동원》</small>
+  EN: Helps digest food and remove blockages. Add 1 nyang of <i>Aucklandiae Radix</i> (木香) to a Bitter Orange and Atractylodes Pill. The method of making and taking the medicine is the same as above. <small>B215</small>
+
+- contents_id: d5ab76e86a842d55d1d32eccaf20e29a361d70653ca147db3420d1cae2dd0b04
+  tagname: h4
+  OR: 半夏枳朮丸
+  KO: 반하지출환
+  EN: Pinellia, Aaurantii Immaturus Fructus, and Atractylodes Decoction
+
+- contents_id: 4500d4fa4cbb3cb86d6dfd180cec3e9c9e350048e76732c1f872e23d103f58b6
+  tagname: p4
+  OR: 治傷冷食, 痰盛. 本方, 加半夏(薑製) 一兩, 製法服法同上. <small>《東垣》</small>
+  KO: 찬 음식에 상하여 담(痰)이 많은 경우를 치료한다. 지출환에 반하(생강즙에 담갔다 말린다) 1냥을 넣은 것이다. 만드는 법과 복용법은 앞과 같다. <small>《동원》</small>
+  EN: Treats damage from cold food and too much phlegm. Add 1 nyang of <i>Pinelliae Tuber</i> (半夏) (soaked in ginger juice and dried) to a Bitter Orange and Atractylodes Pill. Methods of making and taking are the same as above. <small>B215</small>
+
+- contents_id: 7730738cc29fcd3883253209bd79361c532ecd21aaf30b8a0cd8ece2e4fc7072
+  tagname: h4
+  OR: 麴糵枳朮丸
+  KO: 국얼지출환
+  EN: Aaurantii Immaturus Fructus, and Atractylodes Medicated Leaven Pill
+
+- contents_id: da2fb26329733200f360953b9ccc5835beba7f4991dc36d54095f695f57b8217
+  tagname: p4
+  OR: 治食傷, 心胸滿悶不快. 本方, 加神麴(炒)ㆍ麥芽(炒) 各一兩. 製法服法同上. <small>《東垣》</small>
+  KO: 식상으로 가슴이 그득하고 갑갑하여 불쾌한 경우를 치료한다. 지출환에 신국(볶는다)ㆍ맥아(볶는다) 각 1냥을 넣은 것이다. 만드는 법과 복용법은 앞과 같다. <small>《동원》</small>
+  EN: Treats food damage which causes stuffiness in the chest and an uncomfortable feeling. Add 1 nyang each of <i>Massa Medicata Fermentata</i> (神麯) (fried), <i>Hordei Fructus Germinatus</i> (麥芽) (fried) to a Bitter Orange and Atractylodes Pill. Methods of making and taking is the same as above. <small>B215</small>
+
+- contents_id: 8e1a4ea0cbda8b9dc0d12738855c5ae916ee515f9ff5bb084703bda282670c4a
+  tagname: h4
+  OR: 橘半枳朮丸
+  KO: 귤반지출환
+  EN: Tangerine, Pinellia, Aaurantii Immaturus Fructus, and Atractylodes Pill
+
+- contents_id: fd0b45c6a73b57941f801507d99c135d5f926b49430d8f04c47fd241f7c45b1e
+  tagname: p4
+  OR: 治飮食傷痞悶. 本方, 加橘皮ㆍ半夏(薑製) 各一兩, 製法服法同上. <small>《東垣》</small>
+  KO: 음식상으로 속이 답답한 경우를 치료한다. 지출환에 귤피ㆍ반하(생강즙에 담갔다 말린다) 각 1냥을 넣은 것이다. 만드는 법과 복용법은 앞과 같다. <small>《동원》</small>
+  EN: Treats food damage which causes stuffiness inside. Add 1 nyang each of <i>Citrus Unshius Pericarpium</i> (橘皮) and <i>Pinelliae Tuber</i> (半夏) (soaked in ginger juice and dried) to a Bitter Orange and Atractylodes Pill. Methods of making and taking are the same as above. <small>B215</small>
+
+- contents_id: 62e28b25a2f585e5fae3d61f2a5773fe8423eee27c89b45e844cc4d82267b308
+  tagname: h4
+  OR: 橘連枳朮丸
+  KO: 귤련지출환
+  EN: Tangerine, Forsythia, Aaurantii Immaturus Fructus, and Atractylodes Pill
+
+- contents_id: 77d760ede6ea90dec916ece5872b67b1c6365f642072ad6d7cecec3a3314c19e
+  tagname: p4
+  OR: 補脾, 和胃, 消食, 化痰, 瀉火. 白朮 三兩, 枳實(麩炒)ㆍ陳皮ㆍ黃連(酒浸炒) 各一兩. 右爲末, 荷葉煮湯打米糊, 和丸梧子大, 服法同上.
+  KO: 비를 보하고 위(胃)를 조화시키며, 음식을 소화시키고 담을 삭히며 화를 사한다. 백출 3냥, 지실(밀기울로 볶는다)ㆍ진피ㆍ황련(술에 담갔다 볶는다) 각 1냥. 이 약들을 가루내고 연잎 달인 물로 쌀풀을 쑤어 반죽하여 오자대로 환을 만든다. 앞과 같은 방법으로 먹는다.
+  EN: Tonifies the spleen, harmonizes the stomach, digests food, reduces phlegm and purgates Fire. 3 nyangs of <i>Atractylodis Rhizoma Alba</i> (白朮), 1 nyang each of <i>Ponciri Fructus Immaturus</i> (枳實) (fried with bran), <i>Citrus Unshius Pericarpium</i> (陳皮) and <i>Coptidis Rhizoma</i> (黃連) (soaked in alcohol and fried). Grind these into powder, make rice paste with water used to boil lotus leaves, mix and make pills in the size of a seed of a foxglove tree. Take in the same way as above.
+
+- contents_id: 27e48681dad5997954c952af05d2b237234fdc746887e0bbce7667e0b6b6fdd6
+  tagname: p4
+  OR: 張易老, 取白朮二兩以補脾, 枳實一兩以消痞, 取其補多而消少, 至東垣, 加橘皮一兩以和胃, 則補消相半也. 予用白朮三兩, 枳實ㆍ陳皮ㆍ黃連 各一兩, 乃補多消[^食], 又兼淸熱也. <small>《方廣》</small>
+  KO: 장역로는 백출 2냥으로 비를 보하고, 지실 1냥으로 명치가 막혀서 답답한 것을 없앴으니 보하는 것이 많고 사하는 것이 적었다. 동원이 귤피 1냥을 넣어 위(胃)를 조화롭게 하여 비로소 보사가 같아졌다. 내가 백출 3냥, 지실ㆍ진피ㆍ황련 각 1냥을 써서 많이 보하고 적게 삭히면서 열도 내리도록 하였다. <small>《방광》</small>
+  EN: Zhang Yilao (易老) tonified the spleen with 2 nyangs of <i>Atractylodis Rhizoma Alba</i> (白朮), and removed stuffiness in the pit of the stomach with 1 nyang of <i>Ponciri Fructus Immaturus</i> (枳實). It had much tonification and less purgation. Dongyuan (東垣) added 1 nyang of <i>Citrus Unshius Pericarpium</i> (橘皮) and harmonized the stomach; finally tonification and purgation were the same. I used 3 nyangs of <i>Atractylodis Rhizoma Alba</i> (白朮), 1 nyang each of <i>Ponciri Fructus Immaturus</i> (枳實), <i>Citrus Unshius Pericarpium</i> (陳皮), and <i>Coptidis Rhizoma</i> (黃連) to tonify more and digest, and bring down Fire. <small>P04</small>
+  NOTE:
+    "[^食]: 少@『단계심법부여』"
+
+- contents_id: 8113de39e99ef29daa7df1a0d77625d3712313c1c5b6f76abeb0c80ed2b8ddcb
+  tagname: p4
+  OR: 荷葉包飯爲丸, 恐不能盡荷葉之味, 不若以荷葉煮粥, 用之更妙. <small>《丹心》</small>
+  KO: 연잎으로 감싸서 지은 밥으로 환을 만들면 연잎의 성미가 모두 흡수되지 않을 수 있으니 연잎으로 죽을 끓여 쓰는 것이 더욱 묘한 효과가 있다. <small>《단심》</small>
+  EN: When a person makes pills with rice made with lotus leaf wrapping, the characteristics of the lotus can＂t be all absorbed. Therefore, making porridge with a lotus leaf is even more effective. <small>B073</small>
+
+- contents_id: 45fa70b4ce9f9b6b06dc2c8f8d3c6b6a268bcd2b72e4b617903d843e7965e8fe
+  tagname: p4
+  OR: 初未悟荷葉飯爲丸之理, 老年味之始得, 可謂奇矣. 夫荷葉之物, 中央空, 象震卦之體, 人感之, 生足少陽甲膽, 先化萬物之根蔕也. 飮食入胃, 榮氣上行, 卽少陽甲膽之氣也. 荷葉色靑, 形乃空, 象風木者也. 食藥感此氣之化, 胃氣何由不上升乎. 以爲引用, 可謂遠識深慮合於道也. <small>《東垣》</small>
+  KO: 처음에는 연잎으로 감싸서 지은 밥으로 환을 만드는 이치를 몰랐으나 나이 들어서 알게 되었는데 참으로 기묘하다고 할 만하다. 연잎은 중앙이 비어서 진괘(震卦)의 형체를 닮았으니 사람이 이것을 만나면 족소양갑담의 기가 생겨서 먼저 만물의 근본을 만든다. 음식이 위(胃)로 들어가면 영기(營氣)가 상행하니, 이것이 족소양갑담의 기이다. 연잎의 색은 푸르고 형(形)은 비어 있으니 풍목(風木)을 상징한다. 약을 먹어 이 기를 받으면 위기(胃氣)가 어찌 상승하지 않겠는가? 이런 성질을 가진 것을 사용했으니 그 멀리 보는 견식과 깊은 생각은 도에 합치한다고 할 만하다. <small>《동원》</small>
+  EN: At first people did not know the principles of making pills with rice made with a lotus leaf wrapping. As time passed, people understood; it is truly mysterious. The lotus leaf is empty inside, and represents the main body of the Zhen (震) triagram. When a person meets this, qi of the gallbladder is born, which creates the origin of all things. When food enters the stomach, nutrient qi ascends; this is qi of the gallbladder. The leaf of lotus is blue and the form is empty; it represents wind-Wood. When a person takes medicine and receives this qi, how could stomach qi not ascend? Since people used such quality, the perspective and deep thoughts match Tao. <small>B215</small>
+
+- contents_id: 0674063d19273f23953b5c93cb49dbbdd03b7477da6f23eacbcaced8d8857dd0
+  tagname: h4
+  OR: 三黃枳朮丸
+  KO: 삼황지출환
+  EN: Three Yellows, Aaurantii Immaturus Fructus, and White Atractylodes Pill
+
+- contents_id: e254a6fee2f0985f9482c5cdf5311b3ae70f44349685f65dcee33ffac2c4a146
+  tagname: p4
+  OR: 治傷肉食濕麪厚味之物, 悶亂不快. 黃芩 二兩, 黃連(酒炒)ㆍ大黃(煨)ㆍ神麴(炒)ㆍ白朮ㆍ陳皮 各一兩, 枳實(麩炒) 五錢. 右爲末, 湯浸蒸餠和丸菉豆大, 白湯呑下五七十丸. <small>《東垣》</small>
+  KO: 육식이나 밀가루 음식이나 기름진 음식에 상하여 속이 답답하고 불쾌한 경우를 치료한다. 황금 2냥, 황련(술에 축여 볶는다)ㆍ대황(잿불에 묻어 굽는다)ㆍ신국(볶는다)ㆍ백출ㆍ진피 각 1냥, 지실(밀기울로 볶는다) 5돈. 이 약들을 가루내고 끓인 물에 담갔던 증편에 반죽하여 녹두대로 환을 만든다. 끓인 물에 50～70알씩 먹는다. <small>《동원》</small>
+  EN: Treats stuffiness and uncomfortable feeling from meat, flour-based food, and greasy food. 2 nyangs of <i>Scutellariae Radix</i> (黃芩), 1 nyang of <i>Coptidis Rhizoma</i> (黃連) (soaked in alcohol and fried), <i>Rhei Radix et Rhizoma</i> (大黃) (buried in fire and roasted), <i>Massa Medicata Fermentata</i> (神麯) (fried), <i>Atractylodis Rhizoma Alba</i> (白朮), and <i>Citrus Unshius Pericarpium</i> (陳皮), and 5 dons of <i>Ponciri Fructus Immaturus</i> (枳實) (fried with bran). Grind these into powder, mix with rice cake that was soaked in boiled water, and make pills the size of green beans. Take 50-70 pills with boiled water. <small>B215</small>
+
+- contents_id: d98c35713553c300f0f0caa0ca221b50375d57115645a1f87107f8301f83a3eb
+  tagname: h4
+  OR: 香砂平胃散
+  KO: 향사평위산
+  EN: Aucklandia and Amomum Calm Stomach Powder
+
+- contents_id: ed27cd419cf2185dfee845cff2010e593f5fac6567b430693cc32a42826a790e
+  tagname: p4
+  OR: 治傷食. 蒼朮 二錢, 陳皮ㆍ香附 各一錢, 枳實ㆍ藿香 各八分, 厚朴ㆍ縮砂 各七分, 木香ㆍ甘草 各五分. 右剉, 作一貼, 薑三煎服. <small>《回春》</small>
+  KO: 식상을 치료한다. 창출 2돈, 진피ㆍ향부자 각 1돈, 지실ㆍ곽향 각 8푼, 후박ㆍ사인 각 7푼, 목향ㆍ감초 각 5푼. 이 약들을 썰어 1첩으로 하여 생강 3쪽을 넣어 물에 달여 먹는다. <small>《회춘》</small>
+  EN: Treats food damage. 2 dons of <i>Atractylodis Rhizoma</i> (蒼朮), 1 don of <i>Citrus Unshius Pericarpium</i> (陳皮) and <i>Cyperi Rhizoma</i> (香附子), 8 puns of <i>Ponciri Fructus Immaturus</i> (枳實) and <i>Agastachis Herba</i> (藿香), 7 puns of <i>Magnoliae Cortex</i> (厚朴) and <i>Amomi Fructus</i> (砂仁), and 5 puns of <i>Aucklandiae Radix</i> (木香) and <i>Glycyrrhizae Radix</i> (甘草). Cut into pieces, make in one packet, add 3 pieces of <i>Zingiberis Rhizoma Crudus</i> (生薑), and decoct in water. <small>B182</small>
+
+- contents_id: 02aa460b52c07d9545b50edaeff4684f25d8254d5bc1130392222d9d1994d664
+  tagname: h4
+  OR: 加味平胃散
+  KO: 가미평위산
+  EN: Augmented Calm Stomach Powder
+
+- contents_id: ffc60cd8e2c6ae11aeefb8731fe2cf2eec6c56b7d8bbba4356b3810e31e7dcc7
+  tagname: p4
+  OR: 治宿食不化. 平胃散本方一貼, 加神麴ㆍ麥芽(炒) 各七分也. <small>《丹心》</small>
+  KO: 식체가 오래되어 소화되지 않는 경우를 치료한다. 평위산에 신국ㆍ맥아(볶는다) 각 7푼을 넣은 것이다. <small>《단심》</small>
+  EN: Treats retained food damage that was not cured completely. Add 7 puns of <i>Massa Medicata Fermentata</i> (神麯) and <i>Hordei Fructus Germinatus</i> (麥芽) (fried) to Calm Stomach Powder. <small>B073</small>
+
+- contents_id: e7e19f570bc8149a793160b43d7d36ec062efb8e454a44b82664e9511a3a67ad
+  tagname: h4
+  OR: 棗肉平胃散
+  KO: 조육평위산
+  EN: Jujube Calm Stomach Powder
+
+- contents_id: 5bfe6a32661151c446ffb0b4138b53524ed2e311686b84826f895883686255e7
+  tagname: p4
+  OR: 消食, 和胃, 化痰. 蒼朮 八兩, 陳皮 四兩, 厚朴 三兩四錢, 甘草ㆍ大棗肉ㆍ生薑 各一兩六錢. 右剉碎, 水浸過藥上 半寸許, 煮令水乾焙擣爲末, 每服 二錢, 空心, 鹽湯點服. <small>《局方》</small>
+  KO: 음식을 소화시키고 위(胃)를 조화시키며 담을 삭힌다. 창출 8냥, 진피 4냥, 후박 3.4냥, 감초ㆍ대추살ㆍ생강 각 1.6냥. 이 약들을 썰고 가늘게 부순다. 여기에 0.5촌쯤 올라오게 물을 부어 약을 담근다. 물이 마를 때까지 달인 후 불에 쬐어 말리고 찧어 가루 낸다. 2돈씩 소금물에 타서 빈속에 먹는다. <small>《국방》</small>
+  EN: Digests food, harmonizes the stomach and reduces phlegm. 8 nyangs of <i>Atractylodis Rhizoma</i> (蒼朮), 4 nyangs of <i>Citrus Unshius Pericarpium</i> (陳皮), 3.4 nyangs of <i>Magnoliae Cortex</i> (厚朴), and 1.6 nyangs of <i>Glycyrrhizae Radix</i> (甘草), <i>Zizyphi Fructus</i> (棗肉) and <i>Zingiberis Rhizoma Crudus</i> (生薑). Cut into pieces and break into small pieces. Pour water 0.5cun on the herbs. Decoct until the water evaporates and dry it on a fire. Grind these into powder. Mix 2 dons each in salty water and drink on an empty stomach. <small>B133</small>
+
+- contents_id: 720dc24046146fb07f459840d4a3ca2630f710c869b8d447636c817e4e79564f
+  tagname: h4
+  OR: 內消散
+  KO: 내소산
+  EN: Elimination in Interior Powder
+
+- contents_id: e3724f16bdf26d5908ce73ae96647f62a7574871bc2183279c9805d8242a8006
+  tagname: p4
+  OR: 治傷食生冷硬物, 痞滿脹痛. 陳皮ㆍ半夏ㆍ白茯苓ㆍ枳實ㆍ山査肉ㆍ神麴ㆍ縮砂ㆍ香附子ㆍ三稜ㆍ蓬朮ㆍ乾生薑 各一錢. 右剉, 作一貼, 水煎服. <small>《回春》</small>
+  KO: 생것이나 찬것이나 단단한 것을 먹고 상하여 명치가 막히고 그득하며, 불러 오르고 아픈 경우를 치료한다. 진피ㆍ반하ㆍ백복령ㆍ지실ㆍ산사육ㆍ신국ㆍ사인ㆍ향부자ㆍ삼릉ㆍ봉출ㆍ건생강 각 1돈. 이 약들을 썰어 1첩으로 하여 물에 달여 먹는다. <small>《회춘》</small>
+  EN: Treats stuffiness, uncomfortable feeling, swelling and pain in the pit of the stomach due to damage from raw, cold or hard food. 1 don of <i>Citrus Unshius Pericarpium</i> (陳皮), <i>Pinelliae Tuber</i> (半夏), <i>Poria Sclerotium</i> (白茯苓), <i>Ponciri Fructus Immaturus</i> (枳實), <i>Crataegi Fructus</i> (山査肉), <i>Massa Medicata Fermentata</i> (神麯), <i>Amomi Fructus</i> (砂仁), <i>Cyperi Rhizoma</i> (香附子), <i>Sparganii Rhizoma</i> (三稜), <i>Curcumae Rhizoma</i> (蓬朮) and <i>Zingiberis Rhizoma</i> Siccus (乾生薑). Cut into pieces, put in one packet and decoct in water. <small>B182</small>
+
+- contents_id: 43051c5843ba12e2132a9aee213dfbfdec17d5ad78feeb3c8616b8615e9c73a4
+  tagname: h4
+  OR: 消滯丸
+  KO: 소체환
+  EN: Eliminate Stagnation Pill
+
+- contents_id: 68318b353071ef13028d333862bb6964dae11fc16ae9e507f57a0a989c2b5aaa
+  tagname: p4
+  OR: 消食, 消酒, 消水, 消氣, 消痞, 消脹, 消腫, 消積, 消痛. 此藥消而不見, 嚮而不動, 其功甚捷. 黑丑(炒頭末) 二兩, 香附(炒)ㆍ五靈脂 各一兩. 右爲末, 醋糊和丸菉豆大, 薑湯呑下二三十丸. <small>《醫鑑》</small>
+  KO: 음식ㆍ술ㆍ물을 소화시키고 기를 삭이며, 명치가 막혀 답답한 것을 없애고, 불러 오르는 것과 붓는 것을 없애며, 적을 없애고 아픔을 멎게 한다. 이 약은 모르는 사이에 소화를 시키고, 효과는 좋으나 몸을 상하게 하지 않는다. 그 효과가 매우 빠르다. 흑축(볶아서 가루내어 체로 쳐서 처음 나온 가루를 쓴다) 2냥, 향부자(볶는다)ㆍ오령지 각 1냥. 이 약들을 가루내고 식초를 넣어 쑨 풀로 반죽하여 녹두대로 환을 만든다. 생강 달인 물에 20～30알씩 먹는다. <small>《의감》</small>
+  EN: Digests food, alcohol, and water, reduces qi, removes stuffiness in the pit of the stomach, swelling, edema, accumulation and stops pain. This medicine digests while one does not know and does not damage the body while the effect is good. The effect is very fast. Prepare 2 nyangs of <i>Pharbitidis Semen</i> (黑丑) (fry, ground into powder, filter and use the powder that comes out first), 1 nyang of <i>Cyperi Rhizoma</i> (香附子) (fried), and <i>Trogopterorum Faeces</i> (五靈脂). Grind these into powder, make into paste with vinegar added, and make pills in the size of green peas. Take 20-30 pills with a decoction of ginger. <small>B162</small>
+
+- contents_id: e938427c38ad85743f051b7321f53881252d120e004d15872d113ae9b003ca5c
+  tagname: h4
+  OR: 加減保和丸
+  KO: 가감보화환
+  EN: Modified Preserve Harmony Pill
+
+- contents_id: b0de596bce573c1c70d70ffa6997b5740db62d3a2a7f045dd6fb05bdf3574640
+  tagname: p4
+  OR: 消食化痰, 扶脾胃氣. 白朮 二兩半, 山査肉ㆍ香附子ㆍ厚朴ㆍ神麴ㆍ半夏ㆍ茯苓 各一兩半, 陳皮ㆍ連翹ㆍ蘿葍子ㆍ黃芩ㆍ黃連 各一兩, 蒼朮ㆍ枳實 各五錢. 右爲末, 薑汁糊和丸梧子大, 每七八十丸, 茶湯任下. <small>《丹心》</small>
+  KO: 음식을 소화시키고 담(痰)을 삭히며 비위의 기를 돕는다. 백출 2.5냥, 산사육ㆍ향부자ㆍ후박ㆍ신국ㆍ반하ㆍ복령 각 1.5냥, 진피ㆍ연교ㆍ나복자ㆍ황금ㆍ황련 각 1냥, 창출ㆍ지실 각 5돈. 이 약들을 가루내고 생강즙을 넣어 쑨 풀로 반죽하여 오자대로 환을 만든다. 70～80알씩 차를 달인 물에 먹는다. <small>《단심》</small>
+  EN: Digests food, reduces phlegm and helps qi of the spleen and stomach. Prepare 2.5 nyangs of <i>Atractylodis Rhizoma Alba</i> (白朮), 1.5 nyangs of <i>Crataegi Fructus</i> (山査肉), <i>Cyperi Rhizoma</i> (香附子), <i>Magnoliae Cortex</i> (厚朴), <i>Massa Medicata Fermentata</i> (神麯), <i>Pinelliae Tuber</i> (半夏) and <i>Poria Sclerotium</i> (茯苓). 1 nyang of <i>Citrus Unshius Pericarpium</i> (陳皮), <i>Forsythiae Fructus</i> (連翹), <i>Raphani Semen</i> (蘿蔔子), <i>Scutellariae Radix</i> (黃芩) and <i>Coptidis Rhizoma</i> (黃連), and 5 dons of <i>Atractylodis Rhizoma</i> (蒼朮) and <i>Ponciri Fructus Immaturus</i> (枳實). Grind these into powder, make into paste with ginger juice, and make pills in the size of a seed of a foxglove tree. Take 70-80 pills with tea water. <small>B073</small>
+
+- contents_id: 8419a83491ca560aa539c07ef3c28e83d9fa543505698589cf4bf82fae27e6a0
+  tagname: h4
+  OR: 七香元
+  KO: 칠향원
+  EN: Seven Fragrant Substances Formula
+
+- contents_id: cf4ac16f2dbcbe6ba57be704f750fca67cbf20053de39325b8358017212f13b4
+  tagname: p4
+  OR: 消食快膈, 和胃止痛. 香附子 二兩半, 三稜ㆍ蓬朮(幷醋煮焙)ㆍ木香ㆍ丁香ㆍ白檀香ㆍ甘松香ㆍ丁香皮ㆍ沈香ㆍ橘紅ㆍ縮砂ㆍ白豆蔲 各五錢. 右爲末, 米糊和丸菉豆大, 薑湯下三四十丸. <small>《直指》</small>
+  KO: 음식을 소화시켜 가슴을 시원하게 뚫고 위(胃)를 조화시키며 아픔을 멎게 한다. 향부자 2.5냥, 삼릉과 봉출(함께 식초에 달여 불에 말린다)ㆍ목향ㆍ정향ㆍ백단향ㆍ감송향ㆍ정향피ㆍ침향ㆍ귤홍ㆍ사인ㆍ백두구 각 5돈. 이 약들을 가루내고 쌀풀로 반죽하여 녹두대로 환을 만든다. 생강 달인 물에 30～40알씩 먹는다. <small>《직지》</small>
+  EN: Digests food and clears the chest, harmonizes the stomach, and stops pain. 2.5 nyangs of <i>Cyperi Rhizoma</i> (香附子), 5 dons of <i>Sparganii Rhizoma</i> (三稜), <i>Curcumae Rhizoma</i> (蓬朮) (decocted in vinegar together and dried on a fire), <i>Aucklandiae Radix</i> (木香), <i>Syzygii Flos</i> (丁香), <i>Santali Albi Lignum</i> (白檀香), <i>Nardostachyos Rhizoma</i> (甘松香), <i>Syzygii Cortex</i> (丁香皮), <i>Aquillariae Lignum</i> (沈香), <i>Citrus Unshius Exocarpium</i> (橘紅), <i>Amomi Fructus</i> (砂仁) and <i>Amomi Fructus Rotundus</i> (白豆蔲). Grind these into powder, mix with rice paste, and make pills in the size of green peas. Take 30-40 pills a day with a decoction of ginger. <small>B186</small>
+
+- contents_id: 0e8ba232a769a38fa8b305d004724eb3ae968c4d5d1d818d95708d7678b3122f
+  tagname: h4
+  OR: 枳實導滯丸
+  KO: 지실도체환
+  EN: Aaurantii Immaturus Fructus Guide Out Stagnation Pill
+
+- contents_id: 7f5cf8f11eba6ae0a4c7ae0cabdbb43fe32a24c270f0b22e496a1a77f2bd17c7
+  tagname: p4
+  OR: 治傷濕熱之物, 不消作痞滿. 大黃 一兩, 枳實ㆍ神麴 各五錢, 茯苓ㆍ黃芩ㆍ黃連ㆍ白朮 各三錢, 澤瀉 二錢. 右爲末, 蒸餠和丸梧子大, 溫水下七八十丸. <small>《東垣》</small>
+  KO: 습열이 있는 음식에 상하여 소화가 되지 않고 속이 막히고 더부룩한 경우를 치료한다. 대황 1냥, 지실ㆍ신국 각 5돈, 복령ㆍ황금ㆍ황련ㆍ백출 각 3돈, 택사 2돈. 이 약들을 가루내고 증편에 반죽하여 오자대로 환을 만든다. 따뜻한 물에 70～80알씩 먹는다. <small>《동원》</small>
+  EN: Treats blocked and stuffy feelings inside from food damage and indigestion. Prepare 1 nyang of <i>Rhei Radix et Rhizoma</i> (大黃), 5 dons of <i>Ponciri Fructus Immaturus</i> (枳實) and <i>Massa Medicata Fermentata</i> (神麯), 3 dons of <i>Poria Sclerotium</i> (茯苓), <i>Scutellariae Radix</i> (黃芩), <i>Coptidis Rhizoma</i> (黃連) and <i>Atractylodis Rhizoma Alba</i> (白朮), and 2 dons of <i>Alismatis Rhizoma</i> (澤瀉). Grind these into powder, mix with rice cake and make pills in the size of a seed of a foxglove tree. Take 70-80 pills with warm water. <small>B215</small>
+
+- contents_id: 78d275a1e8d6455eeef9b541b4f034747f6f2fa106d69f3226648ad6800d2614
+  tagname: p4
+  OR: 一名導氣枳實丸. <small>《入門》</small>
+  KO: 도기지실환이라고도 한다. <small>《입문》</small>
+  EN: Also called a Guide the qi Unripe Bitter Orange Pill. <small>B146</small>
+
+- contents_id: c97382057bb97e4cc0473f4484139c96ccb882efe5db5091e3299f07ca306f70
+  tagname: p4
+  OR: 加木香ㆍ檳榔 各二錢, 名曰, 木香導滯丸. <small>《正傳》</small>
+  KO: 여기에 목향ㆍ빈랑 각 2돈을 더한 것을 목향도체환이라고 한다. <small>《정전》</small>
+  EN: Add 2 dons of <i>Aucklandiae Radix</i> (木香) and <i>Arecae Semen</i> (檳榔), and it is called an Aucklandia Pill to Guide Out Stagnation. <small>B172</small>
+
+- contents_id: 30c9efc087951d593f43084cd2ea644f006e9734ed49cd5e21a3432d4878f62d
+  tagname: h4
+  OR: 木香化滯湯
+  KO: 목향화체탕
+  EN: Aucklandia Dissolve Stagnation Decoction
+
+- contents_id: 4cf2f890e71dcc6581cb51f16cc1751f06f1370180c0085843c14548f1948637
+  tagname: p4
+  OR: 治因憂食麪, 心下痞滿作痛. 半夏 一錢半, 草豆蔲ㆍ甘草 各一錢, 柴胡 七分, 陳皮ㆍ乾生薑ㆍ木香 各六分, 當歸尾ㆍ枳實 各四分, (酒)紅花 一分. 右剉, 作一貼, 薑五, 水煎服. <small>《東垣》</small>
+  KO: 근심이 있을 때 국수를 먹어서 명치가 막히고 더부룩하며 아픈 경우를 치료한다. 반하 1.5돈, 초두구ㆍ감초 각 1돈, 시호 7푼, 진피ㆍ건생강ㆍ목향 각 6푼, 당귀(잔뿌리)ㆍ지실 각 4푼, 홍화(술로 법제한다) 1푼. 이 약들을 썰어 1첩으로 하여 생강 5쪽을 넣어 물에 달여 먹는다. <small>《동원》</small>
+  EN: Treats stuffiness, uncomfortable feelings, and pain in the pit of the stomach from eating noodles when one is worried. 1.5 dons of <i>Pinelliae Tuber</i> (半夏), 1 don of <i>Alpiniae Katsumadaii Semen</i> (草豆蔲), <i>Glycyrrhizae Radix</i> (甘草), 7 puns of <i>Bupleuri Radix</i> (柴胡), 6 puns of <i>Citrus Unshius Pericarpium</i> (陳皮), <i>Zingiberis Rhizoma</i> <i>Siccus</i> (乾生薑) and <i>Aucklandiae Radix</i> (木香), 4 puns of <i>Angelica Gigantis Radix</i> (當歸) (fine roots) and <i>Ponciri Fructus Immaturus</i> (枳實), and 1 pun of <i>Carthami Flos</i> (紅花) (prepared with alcohol). Cut into pieces, put them in one packet, add 5 pieces of <i>Zingiberis Rhizoma Crudus</i> (生薑) and decoct in water to take. <small>B215</small>
+
+- contents_id: 251e068f9319d6815c3335c632d648db3ef211259bfcdcb570d1e7fdcfdba144
+  tagname: h4
+  OR: 豆蔲橘紅散
+  KO: 두구귤홍산
+  EN: Cardamom and Citri Grandis Rubrum Exocarpium Powder
+
+- contents_id: 236a9bba60acbceaaac433cbb7379782bcd94924406b8179e48897f97be71d98
+  tagname: p4
+  OR: 化宿食, 溫脾胃. 木香ㆍ丁香 各一錢, 白豆蔲ㆍ人參ㆍ厚朴ㆍ白朮ㆍ神麴ㆍ乾生薑ㆍ半夏麴ㆍ橘紅ㆍ藿香ㆍ甘草(灸) 各五分. 右剉, 作一貼, 入薑三棗二, 水煎服. <small>《丹心》</small>
+  KO: 숙식(宿食)을 소화시키고 비위를 따뜻하게 한다. 목향ㆍ정향 각 1돈, 백두구ㆍ인삼ㆍ후박ㆍ백출ㆍ신국ㆍ건생강ㆍ반하국ㆍ귤홍ㆍ곽향ㆍ감초(굽는다) 각 5푼. 이 약들을 썰어 1첩으로 하여 생강 3쪽, 대추 2개를 넣어 물에 달여 먹는다. <small>《단심》</small>
+  EN: Treats retained food and warms the spleen and stomach. 1 dons of <i>Aucklandiae Radix</i> (木香) and <i>Syzygii Flos</i> (丁香), 5 puns of <i>Amomi Fructus Rotundus</i> (白豆蔲), <i>Ginseng Radix</i> (人參), <i>Magnoliae Cortex</i> (厚朴), <i>Atractylodis Rhizoma Alba</i> (白朮), <i>Massa Medicata Fermentata</i> (神麯), <i>Zingiberis Rhizoma</i> <i>Siccus</i> (乾生薑), <i>Pinelliae Tube Fermentata</i> (半夏麴), <i>Citrus Unshius Exocarpium</i> (橘紅), <i>Agastachis Herba</i> (藿香) and <i>Glycyrrhizae Radix</i> (甘草) (roasted). Cut into pieces, put them in one packet, add 3 pieces of <i>Zingiberis Rhizoma Crudus</i> (生薑) and 2 pieces of <i>Zizyphi Fructus</i> (大棗) and decoct in water to take. <small>B073</small>
+
+- contents_id: 746f0bae12199ecb3ecc9dd2c2231abf2cda69d7d3c2f29d083075e664594a25
+  tagname: h1
+  OR: 內景篇卷之一
+  KO: 내경편 권1
+  EN: Internal Bodily Elements, Volume 1
+
+- contents_id: 1ec63260ad1f01ddb7a1fe6ef9f8e21e796f907dca1adef84be89f506940ae3c
+  tagname: p1
+  OR: 香殼丸
+  KO: 향각환
+  EN: Aucklandia and Ponciri Fructus Pericarpium Pill
+
+- contents_id: 49f1d95cb7f4f3b46f2bab35877ba42cab3065e1cb0dbc0f836790d871e5e5aa
+  tagname: p4
+  OR: 消食化氣, 醒脾去痰. 靑皮ㆍ陳皮 各二兩, 枳殼 一兩, 香附子 七錢半, 蘿葍子ㆍ木香ㆍ三稜ㆍ蓬朮ㆍ神麴ㆍ麥芽ㆍ檳榔ㆍ枳實ㆍ山査肉ㆍ草果 各五錢, 半夏(製) 一兩二錢半, 陳倉米 一升(巴豆肉二十箇, 同炒黃, 去巴豆不用). 右爲末, 醋糊和丸梧子大, 白湯下七八十丸. <small>《丹心》</small>
+  KO: 음식을 소화시키고 기를 돌리며, 비를 깨우고 담을 없앤다. 청피ㆍ진피 각 2냥, 지각 1냥, 향부자 7.5돈, 나복자ㆍ목향ㆍ삼릉ㆍ봉출ㆍ신국ㆍ맥아ㆍ빈랑ㆍ지실ㆍ산사육ㆍ초과 각 5돈, 반하(법제한다) 1.25냥, 묵은 쌀 1되(파두육 20개와 함께 누렇게 볶은 뒤, 파두는 쓰지 않는다). 이 약들을 가루내고 식초를 넣어 쑨 풀로 반죽하여 오자대로 환을 만든다. 끓인 물에 70～80알씩 먹는다. <small>《단심》</small>
+  EN: Helps food digestion, circulates qi, wakes up the spleen and removes phlegm. 2 nyangs of <i>Citri Unshius Pericarpium Immaturus</i> (靑皮) and <i>Citrus Unshius Pericarpium</i> (陳皮), 1 nyang of <i>Aruantii Fructus Immaturus</i> (枳殼), 7.5 dons of <i>Cyperi Rhizoma</i> (香附子), 5 dons of <i>Raphani Semen</i> (蘿蔔子), <i>Aucklandiae Radix</i> (木香), <i>Sparganii Rhizoma</i> (三稜), <i>Curcumae Rhizoma</i> (蓬朮), <i>Massa Medicata Fermentata</i> (神麯), <i>Hordei Fructus Germinatus</i> (麥芽), <i>Arecae Semen</i> (檳榔), <i>Ponciri Fructus Immaturus</i> (枳實), <i>Crataegi Fructus</i> (山査肉) and <i>Amomi Tsao-ko Fructus</i> (草果), 1.25 nyangs of <i>Pinelliae Tuber</i> (半夏) (prepared) and 1 doe of old rice (fry with 20 <i>Crotonis Semen</i> (巴豆肉) until the rice turns yellow, and do not put the <i>Crotonis Semen</i> (巴豆) in the medicine). Cut into pieces, make into paste with vinegar, make pills in the size of a seed of a foxglove tree. Take 70-80 pills with boiled water. <small>B073</small>
+
+- contents_id: 22939c074587e402c4fb6a7f54136458f5f219aaa62f9eec09f62bd6f6ae3085
+  tagname: h4
+  OR: 二黃丸
+  KO: 이황환
+  EN: Scutellaria and Coptis Pill
+
+- contents_id: 1d55add40c5d19ba4a1fa47ec350c435442aace0213ac31d1fd18a8934179ebe
+  tagname: p4
+  OR: 治傷熱食, 痞悶不安. 黃芩 二兩, 黃連 一兩, 升麻ㆍ柴胡 各三錢, 枳實 五錢, 甘草 二錢. 右爲末, 蒸餠和丸菉豆大. 白湯或薑湯下五七十丸. <small>《入門》</small>
+  KO: 뜨거운 음식에 상하여 속이 막히고 갑갑하여 불안한 경우를 치료한다. 황금 2냥, 황련 1냥, 승마ㆍ시호 각 3돈, 지실 5돈, 감초 2돈. 이 약들을 가루내고 증편에 반죽하여 녹두대로 환을 만든다. 끓인 물이나 생강 달인 물에 50～70알씩 먹는다. <small>《입문》</small>
+  EN: Treats stuffiness and uneasiness from hot food damage. 2 nyangs of <i>Scutellariae Radix</i> (黃芩), 1 nyang of <i>Coptidis Rhizoma</i> (黃連), 3 dons of <i>Cimicifugae Rhizoma</i> (升麻) and <i>Bupleuri Radix</i> (柴胡), 5 dons of <i>Ponciri Fructus Immaturus</i> (枳實), and 2 dons of <i>Glycyrrhizae Radix</i> (甘草). Cut into pieces, mix with rice cake, and make pills in the size of green peas. Take 50-70 pills a day with boiled water or a decoction of ginger. <small>B146</small>
+
+- contents_id: b135bfe0ebc90524198a04f8b88b9d5dc28f7e746cdef22bd7a74452c75d99e4
+  tagname: h4
+  OR: 三稜消積丸
+  KO: 삼릉소적환
+  EN: Sparganium Eliminate Accumulation Pill
+
+- contents_id: a54e574dd64ad909cf9792d6d7477c3db18567d1a4900b37c10b029ba716c909
+  tagname: p4
+  OR: 治傷生冷物, 不消滿悶. 三稜ㆍ蓬朮ㆍ神麴 各七錢, 巴豆(和皮入米, 同炒黑焦, 去米)ㆍ靑皮ㆍ陳皮ㆍ茴香 各五錢, 丁香皮ㆍ益智仁 各三錢. 右爲末, 醋糊和丸梧子大, 薑湯下三四十丸. <small>《東垣》</small>
+  KO: 생것이나 찬것에 상하여 소화되지 않고 속이 더부룩하고 갑갑한 경우를 치료한다. 삼릉ㆍ봉출ㆍ신국 각 7돈, 파두(껍질 채로 쌀과 함께 넣고 검게 볶은 후 쌀을 제거한다)ㆍ청피ㆍ진피ㆍ회향 각 5돈, 정향피ㆍ익지인 각 3돈. 이 약들을 가루내고 식초를 넣어 쑨 풀로 반죽하여 오자대로 환을 만든다. 생강 달인 물에 30～40알씩 먹는다. <small>《동원》</small>
+  EN: Treats indigestion and stuffiness and uncomfortable feelings inside from cold food. 7 dons of <i>Sparganii Rhizoma</i> (三稜), <i>Curcumae Rhizoma</i> (蓬朮) and <i>Massa Medicata Fermentata</i> (神麯), 5 dons of <i>Crotonis Semen</i> (巴豆) (fried with rice until it turns black with the peel intact and the rice removed), <i>Citri Unshius Pericarpium Immaturus</i> (靑皮), <i>Citrus Unshius Pericarpium</i> (陳皮) and <i>Foeniculi Fructus</i> (茴香), and 3 dons of <i>Syzygii Cortex</i> (丁香皮) and <i>Alpiniae Oxyphyllae Fructus</i> (益智仁). Grind these into powder, make into paste with vinegar, and make pills in the size of a seed of a foxglove tree. Take 30-40 pills in a decoction of ginger. <small>B215</small>
+
+- contents_id: 2cad502fd7d43a3d66e740a30ce4e0908227e1bffb54850d4071f7a8a8c50ccc
+  tagname: h4
+  OR: 穀神元
+  KO: 곡신원
+  EN: Eliminate Spirits Formula
+
+- contents_id: fdd31a984f7fc625265f667f7b1002aff91c83cc82ccf075f53756042cba55d4
+  tagname: p4
+  OR: 治宿食不消, 健脾益氣. 人參ㆍ縮砂ㆍ香附子ㆍ三稜ㆍ蓬朮(幷煨)ㆍ靑皮ㆍ陳皮ㆍ神麴(炒)ㆍ麥芽(炒)ㆍ枳殼 各等分. 右爲末, 米糊和丸梧子大, 米飮下三五十丸. <small>《得效》</small>
+  KO: 숙식(宿食)이 소화되지 않는 경우를 치료한다. 비를 든든히 하고 기를 보한다. 인삼ㆍ사인ㆍ향부자ㆍ삼릉과 봉출(함께 잿불에 묻어 굽는다)ㆍ청피ㆍ진피ㆍ신국(볶는다)ㆍ맥아(볶는다)ㆍ지각 모두 같은 양. 이 약들을 가루내고 쌀풀로 반죽하여 오자대로 환을 만든다. 미음에 30～50알씩 먹는다. <small>《득효》</small>
+  EN: Treats indigestion of retained food. Makes the spleen healthy and tonifies qi. Prepare the same amounts of <i>Ginseng Radix</i> (人參), <i>Amomi Fructus</i> (砂仁), <i>Cyperi Rhizoma</i> (香附子), <i>Sparganii Rhizoma</i> (三稜) and <i>Curcumae Rhizoma</i> (蓬朮) (buried in ash and roasted together), <i>Citri Unshius Pericarpium Immaturus</i> (靑皮), <i>Citrus Unshius Pericarpium</i> (陳皮), <i>Massa Medicata Fermentata</i> (神麯) (fried), <i>Hordei Fructus Germinatus</i> (麥芽) (fried) and <i>Aruantii Fructus Immaturus</i> (枳殼). Grind these into powder, mix with rice paste, and make pills in the size of a seed of a foxglove tree. Take 30-40 pills with the rice gruel. <small>B090</small>
+
+- contents_id: a0445b868638ec212bc3c52f8b2b4112eddd81c8eebac6df79c374bf4c1b7c00
+  tagname: h4
+  OR: 丁香爛飯丸
+  KO: 정향난반환
+  EN: Cloves and Mushy Rice Pill
+
+- contents_id: ba696989d18d5312385798c6956bd2d3193afc31b520d1a19e41d3c3f7195d09
+  tagname: p4
+  OR: 治飮食傷. 香附子 一兩, 益智仁ㆍ丁香皮ㆍ縮砂ㆍ甘松ㆍ甘草 各六錢, 丁香ㆍ木香ㆍ三稜ㆍ蓬朮 各二錢. 右爲末, 蒸餠和丸菉豆大, 白湯下三五十丸. <small>《東垣》</small>
+  KO: 음식상을 치료한다. 향부자 1냥, 익지인ㆍ정향피ㆍ사인ㆍ감송ㆍ감초 각 6돈, 정향ㆍ목향ㆍ삼릉ㆍ봉출 각 2돈. 이 약들을 가루내고 증편에 반죽하여 녹두대로 환을 만든다. 끓인 물에 30～50알씩 먹는다. <small>《동원》</small>
+  EN: Treats food damage. 1 nyang of <i>Cyperi Rhizoma</i> (香附子), 6 dons of <i>Alpiniae Oxyphyllae Fructus</i> (益智仁), <i>Syzygii Cortex</i> (丁香皮), <i>Amomi Fructus</i> (砂仁), <i>Nardostachyos Rhizoma</i> (甘松) and <i>Glycyrrhizae Radix</i> (甘草), and 2 dons of <i>Syzygii Flos</i> (丁香), <i>Aucklandiae Radix</i> (木香), <i>Sparganii Rhizoma</i> (三稜) and <i>Curcumae Rhizoma</i> (蓬朮). Grind these into powder, mix with ricecake, and make pills in the size of green peas. Take 30-50 pills with boiled water. <small>B215</small>
+
+- contents_id: f3b6946468b2b9554bde98ba5ef2a82f6460d7683eee17c39e6fde373e1512aa
+  tagname: h4
+  OR: 木香見睍丸
+  KO: 목향견현환
+  EN: Aucklandia Beautiful Pill
+
+- contents_id: 7b46cda4b33beec6c1a006003c45ec4207288944f65e832d2accfbde8d7da764
+  tagname: p4
+  OR: 治傷生冷食, 心腹滿痛. 荊三稜ㆍ神麴 各一兩, 荊三稜ㆍ草豆蔲 各五錢, 升麻ㆍ柴胡 各三錢, 木香 二錢, 巴豆霜 五分. 右爲末, 蒸餠和丸菉豆大, 白湯下三十丸. <small>《東垣》</small>
+  KO: 생것이나 찬것에 상하여 명치가 더부룩하고 아픈 경우를 치료한다. 형삼릉ㆍ신국 각 1냥, 석삼릉ㆍ초두구 각 5돈, 승마ㆍ시호 각 3돈, 목향 2돈, 파두상 5푼. 이 약들을 가루내고 증편에 반죽하여 녹두대로 환을 만든다. 끓인 물에 30알씩 먹는다. <small>《동원》</small>
+  EN: Treats stuffiness and pain in the pit of the stomach from raw or cold food. 1 nyang of <i>Sparganii Rhizoma</i> (荊三稜) and <i>Massa Medicata Fermentata</i> (神麯), 5 dons of <i>Sparganii Rhizoma</i> (石三稜) and <i>Alpiniae Katsumadaii Semen</i> (草豆蔲), 3 dons of <i>Cimicifugae Rhizoma</i> (升麻) and <i>Bupleuri Radix</i> (柴胡), 2 dons of <i>Aucklandiae Radix</i> (木香) and 5 puns of <i>Crotonis Semen Degelatinatum</i> (巴豆霜). Grind these into powder, mix with rice cake, and make pills in the size of green peas. Take 30 pills with boiled water. <small>B215</small>
+
+- contents_id: 6c20b1dd129db8bb1deda6f7f66c7314eebfd4144f35bec6285d6a6a192c8321
+  tagname: p4
+  OR: 一名巴豆三稜丸. <small>《東垣》</small>
+  KO: 파두삼릉환이라고도 한다. <small>《동원》</small>
+  EN: Also called a Croton and Sparganium Pill. <small>B215</small>
+
+- contents_id: 8f46237577ca7ff936dfea8c9ad860223ac3e93b4cf3d7f367445ee193e13e28
+  tagname: h3
+  OR: 食傷補益之劑
+  KO: 식상에 보하는 약
+  EN: Prescriptions for Tonifying Food Damage
+
+- contents_id: cd0241d200664b4f1b390353ac061597567b4706d2f7d78c0c20764b055968d6
+  tagname: p3
+  OR: 脾胃弱而飮食難任者, 不可一槪用剋伐之藥, 宜錢氏異功散補之, 自然能食. 設或嗜食大過, 傷脾痞滿者, 權用枳實丸<small>卽枳實導滯丸</small>, 勿多服. <small>《綱目》</small>
+  KO: 비위가 약하여 음식을 받아들이기 어려울 때 무조건 치는 약을 쓰면 안 된다. 전씨이공산으로 보해야 자연히 먹을 수 있다. 지나치게 음식을 좋아해서 비(脾)를 상하여 속이 막히고 더부룩할 때는 상황에 따라 지실환<small>곧 지실도체환</small>을 쓰는데 많이 먹으면 안 된다. <small>《강목》</small>
+  EN: When one＂s spleen and stomach are so weak that one has difficulty in absorbing food, medicine for invading must not be always used. Tonifying with Qian＂s Extraordinary Result Powder must be done for the patient to eat naturally. When one＂s spleen is damaged and one＂s insides are stuffy and full from overeating, use an Unripe Bitter Orange Pill <small>also called an Aaurantii Immaturus Fructus Guide Out Stagnation Pill</small> relating the circumstances but it must not be overused. <small>B057</small>
+
+- contents_id: 6ab8501d84b044db850d64dd4c487502c87f802b0cc7622ab439b1dbf17eec3d
+  tagname: p3
+  OR: 宿食吐下後氣虛, 宜補四君子湯<small>方見氣門</small>ㆍ六君子湯<small>方見痰飮</small>ㆍ補中益氣湯. <small>《入門》</small>
+  KO: 오래된 식체를 토하거나 설사한 후 기가 허하면 사군자탕<small>처방은 기문에 나온다</small>ㆍ육군자탕<small>처방은 담음문에 나온다</small>ㆍ보중익기탕으로 보해야 한다. <small>《입문》</small>
+  EN: When qi is deficient from vomiting or having diarrhea of retained food blockage, use a Four Gentlemen Decoction <small>the prescription is mentioned in the Chapter qi</small>, Six Gentlemen Decoction <small>the prescription is mentioned in the Chapter Phlegm</small> and a Tonify the Center to Augment the qi Decoction to tonify. <small>B146</small>
+
+- contents_id: 9c2e3e1f759bc0ccdc2cf1bbded4aab96212bf5b721bc410aec12315c4b5a7ea
+  tagname: p3
+  OR: 食傷胃弱, 宜用醒脾育胃湯ㆍ參朮健脾湯ㆍ七珍散ㆍ八珍散ㆍ健胃保和元ㆍ養脾丸ㆍ八味理中丸ㆍ滋脾丸ㆍ異功散<small>方見五藏</small>ㆍ健脾丸ㆍ參苓壯脾元ㆍ千金養脾元.
+  KO: 식상으로 위(胃)가 약할 때는 성비육위탕ㆍ삼출건비탕ㆍ칠진산ㆍ팔진산ㆍ건위보화원ㆍ양비환ㆍ팔미이중환ㆍ자비환ㆍ이공산<small>처방은 오장문에 나온다</small>ㆍ건비환ㆍ삼령장비원ㆍ천금양비원을 써야 한다.
+  EN: When the stomach is weak from food damage, a Revive Spleen and Raise Stomach Decoction, Ginseng and White Atractylodes Build Spleen Decoction, Seven Pearls Powder, Eight Treasures Powder, Strengthen Stomach to Preserve Harmony Formula, Maintain Spleen Pill, Eight Substances Order Center Pill, Nourish Spleen Pill, Extraordinary Result Powder <small>the prescription is mentioned in the Chapter Five Viscera and Six Bowels</small>, Strengthen Spleen Pill, Ginseng and Poria Strengthen Spleen Formula and Spleen Maintenance Worth a Thousand Pieces of Gold Powder must be used.
+
+- contents_id: 920384008d5440334c761e1ea863632c1d6ffc899a82548b8e6b118129f9b002
+  tagname: h4
+  OR: 錢氏異功散
+  KO: 전씨이공산
+  EN: Qian＂s Extraordinary Result Powder
+
+- contents_id: 1e5b4fe28c3f71d901bca249987a010192a1feab82231a844bd86269a7acc87b
+  tagname: p4
+  OR: 治脾胃虛弱, 飮食不進, 未能消化, 心胸痞悶. 人參ㆍ白朮ㆍ白茯苓ㆍ橘皮ㆍ木香ㆍ甘草 各一錢. 右剉, 作一貼, 入薑三棗二, 水煎服. <small>《綱目》</small>
+  KO: 비위가 허약하여 음식을 먹지 않고 제대로 소화하지 못하며, 가슴이 답답한 경우를 치료한다. 인삼ㆍ백출ㆍ백복령ㆍ귤피ㆍ목향ㆍ감초 각 1돈. 이 약들을 썰어 1첩으로 하여 생강 3쪽, 대추 2개를 넣어 물에 달여 먹는다. <small>《강목》</small>
+  EN: Treats low appetite, indigestion, and stuffiness in the chest from a weak spleen and stomach. 1 don of <i>Ginseng Radix</i> (人參), <i>Atractylodis Rhizoma Alba</i> (白朮), <i>Poria Sclerotium</i> (白茯苓), <i>Citrus Unshius Pericarpium</i> (橘皮), <i>Aucklandiae Radix</i> (木香) and <i>Glycyrrhizae Radix</i> (甘草). Cut into pieces, put them in one packet, add 3 pieces of <i>Zingiberis Rhizoma Crudus</i> (生薑) and 2 pieces of <i>Zizyphi Fructus</i> (大棗) and decoct in water to take. <small>B057</small>
+
+- contents_id: 5bc07cabe344169ebd32a673d91c3f2d81f4eef8021ffe7e85317c9248d082c7
+  tagname: h4
+  OR: 醒脾育胃湯
+  KO: 성비육위탕
+  EN: Revive Spleen and Raise Stomach Decoction
+
+- contents_id: f4c992fc09843a23103fb9f34d66d2f40b9cd962e6b3f7801f166fbff82b1068
+  tagname: p4
+  OR: 治中焦氣不足, 飮食不化, 虛痞呑酸. 人參ㆍ白朮ㆍ白茯苓 各一錢, 半夏ㆍ縮砂ㆍ白芍藥ㆍ麥芽ㆍ蒼朮ㆍ厚朴ㆍ藿香ㆍ陳皮 各八分, 枳實 五分. 右剉, 作一貼, 入薑三, 棗二, 水煎服. <small>《集略》</small>
+  KO: 중초의 기가 부족하여 음식이 소화되지 않고 허비(虛痞)가 있거나 탄산(呑酸)이 있는 경우를 치료한다. 인삼ㆍ백출ㆍ백복령 각 1돈, 반하ㆍ사인ㆍ백작약ㆍ맥아ㆍ창출ㆍ후박ㆍ곽향ㆍ진피 각 8푼, 지실 5푼. 이 약들을 썰어 1첩으로 하여 생강 3쪽, 대추 2개를 넣어 물에 달여 먹는다. <small>《집략》</small>
+  EN: Treats deficient chronic pain of indigestion or acid regurgitation from a lack of qi in the middle energizer. 1 don each of <i>Ginseng Radix</i> (人參), <i>Atractylodis Rhizoma Alba</i> (白朮) and <i>Poria Sclerotium</i> (白茯苓), 8 puns of <i>Pinelliae Tuber</i> (半夏), <i>Amomi Fructus</i> (砂仁), <i>Paeoniae Radix Alba</i> (白芍藥), <i>Hordei Fructus Germinatus</i> (麥芽), <i>Atractylodis Rhizoma</i> (蒼朮), <i>Magnoliae Cortex</i> (厚朴), <i>Agastachis Herba</i> (藿香) and <i>Citrus Unshius Pericarpium</i> (陳皮), and 5 pun of <i>Ponciri Fructus Immaturus</i> (枳實). Cut into pieces, put them in one packet, add 3 pieces of <i>Zingiberis Rhizoma Crudus</i> (生薑) and 2 pieces of <i>Zizyphi Fructus</i> (大棗) and decoct in water to take. <small>B048</small>
+
+- contents_id: 67db0c129d7eec93e1ddea8dd078e90990994002482bba15f270f9de2044714e
+  tagname: h4
+  OR: 參朮健脾湯
+  KO: 삼출건비탕
+  EN: Ginseng and White Atractylodes Build Spleen Decoction
+
+- contents_id: a00174a5d585853c8d03dee2dd612a20681250b249063dbe840bbd411bcd2c46
+  tagname: p4
+  OR: 健脾養胃, 運化飮食. 人參ㆍ白朮ㆍ白茯苓ㆍ厚朴ㆍ陳皮ㆍ山査肉 各一錢, 枳實ㆍ白芍藥 各八分, 神麴ㆍ麥芽ㆍ縮砂ㆍ甘草 各五分. 右剉, 作一貼, 入薑三棗二, 水煎服. <small>《集略》</small>
+  KO: 비를 든든히 하고 위(胃)를 길러서 음식을 소화시킨다. 인삼ㆍ백출ㆍ백복령ㆍ후박ㆍ진피ㆍ산사육 각 1돈, 지실ㆍ백작약 각 8푼, 신국ㆍ맥아ㆍ사인ㆍ감초 각 5푼. 이 약들을 썰어 1첩으로 하여 생강 3쪽, 대추 2개를 넣어 물에 달여 먹는다. <small>《집략》</small>
+  EN: Tonifies the spleen and nurtures the stomach, and thereby moves the food inside. 1 don each of <i>Ginseng Radix</i> (人參), <i>Atractylodis Rhizoma Alba</i> (白朮), <i>Poria Sclerotium</i> (白茯苓), <i>Magnoliae Cortex</i> (厚朴), <i>Citrus Unshius Pericarpium</i> (陳皮) and <i>Crataegi Fructus</i> (山査肉), 8 puns of <i>Ponciri Fructus Immaturus</i> (枳實) and <i>Paeoniae Radix Alba</i> (白芍藥), and 5 puns of <i>Massa Medicata Fermentata</i> (神麯), <i>Hordei Fructus Germinatus</i> (麥芽), <i>Amomi Fructus</i> (砂仁) and <i>Glycyrrhizae Radix</i> (甘草). Cut into pieces, put them in one packet, add 3 pieces of <i>Zingiberis Rhizoma Crudus</i> (生薑) and 2 pieces of <i>Zizyphi Fructus</i> (大棗) and decoct in water to take. <small>B048</small>
+
+- contents_id: 54eb2d7013b97d8fe8421f31c79a6f97d369fea24d965e12429012c1ccb6f52b
+  tagname: h4
+  OR: 七珍散
+  KO: 칠진산
+  EN: Seven Pearls Powder
+
+- contents_id: 1b5331756e133f1b512fcc9124ec4f89dcff9cd99fd139644c647ed74411e708
+  tagname: p4
+  OR: 補脾進食, 開胃養氣. 人參ㆍ白朮ㆍ黃芪(蜜灸)ㆍ白茯苓ㆍ山藥ㆍ粟米(微炒)ㆍ甘草(灸) 各等分. 右爲麄末, 每三錢, 入薑三, 棗二, 煎服. <small>《本事》</small>
+  KO: 비를 보하여 음식을 먹게 하고 입맛을 돋우며 기를 기른다. 인삼ㆍ백출ㆍ황기(꿀을 발라 굽는다)ㆍ백복령ㆍ산약ㆍ좁쌀(약간 볶는다)ㆍ감초(굽는다) 모두 같은 양. 이 약들을 거칠게 가루내어 3돈씩 생강 3쪽, 대추 2개를 넣어 물에 달여 먹는다. <small>《본사》</small>
+  EN: Tonifies the spleen which enables eating, raises appetite and raises qi. The same amounts of <i>Ginseng Radix</i> (人參), <i>Atractylodis Rhizoma Alba</i> (白朮), <i>Astragali Radix</i> (黃芪) (covered with honey and roasted), <i>Poria Sclerotium</i> (白茯苓), <i>Dioscoreae Rhizoma</i> (山藥), <i>Setariae Semen</i> (粟米) (mildly fried) and <i>Glycyrrhizae Radix</i> (甘草) (roasted). Grind into a course powder, add 3 pieces of <i>Zingiberis Rhizoma Crudus</i> (生薑) and 2 pieces of <i>Zizyphi Fructus</i> (大棗) and decoct in water to take. <small>B121</small>
+
+- contents_id: c6f2907b7e7f3800012f163546dfad5411846c2452c405d8cca7f11d1f042063
+  tagname: h4
+  OR: 八珍散
+  KO: 팔진산
+  EN: Eight Treasures Powder
+
+- contents_id: 17a003eab74472cbe443ce943105da34a57accb0702d808f8803f44bd82d28f6
+  tagname: p4
+  OR: 治同上, 又治不思飮食. 前方加白扁豆(薑汁炒)一味也. <small>《本事》</small>
+  KO: 앞과 같은 것을 치료하고, 음식 생각이 없는 것도 치료한다. 앞의 처방에 백편두(생강즙에 축여 볶는다)를 넣은 것이다. <small>《본사》</small>
+  EN: Treats the symptoms above and also without an appetite. Add <i>Dolichoris Semen</i> (白扁豆) (soaked in ginger juice and fried) to the prescription above. <small>B121</small>
+
+- contents_id: a77ada7a4c7d4ad1abda091f1d410cc3291629ac7c40c1ac9373ccc5255de535
+  tagname: h4
+  OR: 健胃保和元
+  KO: 건위보화원
+  EN: Strengthen Stomach to Preserve Harmony Formula
+
+- contents_id: f4ecf33fda465ca77ef89a69065366f7ad33a51f67fca1f3972b97cd9fcd839f
+  tagname: p4
+  OR: 消導飮食, 有補有化, 不令傷脾. 白朮 二兩, 枳實ㆍ山査肉ㆍ橘紅ㆍ麥芽 各一兩, 神麴ㆍ白豆蔲ㆍ木香 各五錢. 右爲末, 粳米飯和丸梧子大, 白湯下五七十丸. <small>《集略》</small>
+  KO: 음식을 소화시킨다. 보하기도 하고 소화도 시켜서 비(脾)를 상하지 않는다. 백출 2냥, 지실ㆍ산사육ㆍ귤홍ㆍ맥아 각 1냥, 신국ㆍ백두구ㆍ목향 각 5돈. 이 약들을 가루내고 멥쌀 밥으로 반죽하여 오자대로 환을 만든다. 끓인 물에 50～70알씩 먹는다. <small>《집략》</small>
+  EN: Helps in the digestion of food. It tonifies and induces digestion, so it does not damage the spleen. 2 nyangs of <i>Atractylodis Rhizoma Alba</i> (白朮), 1 nyang of <i>Ponciri Fructus Immaturus</i> (枳實), <i>Crataegi Fructus</i> (山査肉), <i>Citrus Unshius Exocarpium</i> (橘紅) and <i>Hordei Fructus Germinatus</i> (麥芽), and 5 dons of <i>Massa Medicata Fermentata</i> (神麯), <i>Amomi Fructus Rotundus</i> (白豆蔲) and <i>Aucklandiae Radix</i> (木香). Grind these into powder, mix with non-glutinous rice, and make pills in the size of a seed of a foxglove tree. Take 50-70 pills with boiled water. <small>B048</small>
+
+- contents_id: 0d1dc31d69c7ace8c02866c57ac1323d642f7503820d51afbd4d62838eb6a2a3
+  tagname: h4
+  OR: 養脾丸
+  KO: 양비환
+  EN: Maintain Spleen Pill
+
+- contents_id: ae5794e7eb8665bf8fe72ce66934b6173094887f97c53bf2e4fe544c62150501
+  tagname: p4
+  OR: 治脾胃虛冷, 飮食不消, 或腹脹嘔泄. 乾薑ㆍ縮砂 各四兩, 甘草(灸) 三兩, 麥芽ㆍ白茯苓ㆍ人參ㆍ白朮 各一兩. 右爲末, 蜜和每一兩分作八丸, 每一丸, 薑湯嚼下. <small>《必用》</small>
+  KO: 비위가 허랭하여 음식이 소화되지 않거나, 배가 불러 오르고 구토하며 설사하는 경우를 치료한다. 건강ㆍ사인 각 4냥, 감초(굽는다) 3냥, 맥아ㆍ백복령ㆍ인삼ㆍ백출 각 1냥. 이 약들을 가루내고 꿀에 반죽하여 1냥에 8알씩 환을 만든다. 1알씩 생강 달인 물에 씹어먹는다. <small>《필용》</small>
+  EN: Treats a cold spleen and stomach which does not digest food, swelling of the abdomen, vomiting, and diarrhea. Prepare 4 nyangs of <i>Zingiberis Rhizoma</i> (乾薑) and <i>Amomi Fructus</i> (砂仁), 3 nyangs of <i>Glycyrrhizae Radix</i> (甘草) (roasted), and 1 nyang of <i>Hordei Fructus Germinatus</i> (麥芽), <i>Poria Sclerotium</i> (白茯苓), <i>Ginseng Radix</i> (人參) and <i>Atractylodis Rhizoma Alba</i> (白朮). Grind into power, mix with honey, and make 8 pills in 1 nyang. Chew one pill at a time with a decoction of ginger. <small>B097</small>
+
+- contents_id: 3b7b3288f2e7e1bf43cf1e133c718a8e66a51c4f7d0593cc184da21b96224be0
+  tagname: h4
+  OR: 八味理中丸
+  KO: 팔미이중환
+  EN: Eight Substances Order Center Pill
+
+- contents_id: 7837e29051b13007681107d2a668c8c7177f17e76e35f993e982f16a19fbb39d
+  tagname: p4
+  OR: 治同上. 白朮 二兩, 甘草 一兩半, 人參ㆍ乾薑ㆍ縮砂ㆍ白茯苓ㆍ神麴ㆍ麥芽 各一兩, 製法服法同上. <small>《丹心》</small>
+  KO: 위와 같은 경우를 치료한다. 백출 2냥, 감초 1.5냥, 인삼ㆍ건강ㆍ사인ㆍ백복령ㆍ신국ㆍ맥아 각 1냥. 만드는 법과 복용법은 앞과 같다. <small>《단심》</small>
+  EN: Treats the symptoms mentioned above. 2 nyangs of <i>Atractylodis Rhizoma Alba</i> (白朮), 1.5 nyangs of <i>Glycyrrhizae Radix</i> (甘草), 1 nyang of <i>Ginseng Radix</i> (人參), <i>Zingiberis Rhizoma</i> (乾薑), <i>Amomi Fructus</i> (砂仁), <i>Poria Sclerotium</i> (白茯苓), <i>Massa Medicata Fermentata</i> (神麯) and <i>Hordei Fructus Germinatus</i> (麥芽). Methods of making and taking the medicine are the same as above. <small>B073</small>
+
+- contents_id: 5c72e02c8bc14279c9ececd6a423fdfa54de04dd8819dd609a50b158e3a51a80
+  tagname: h4
+  OR: 滋脾丸
+  KO: 자비환
+  EN: Nourish Spleen Pill
+
+- contents_id: e6e115ed7df11af14d559510e6a2e30b51abba998bdc443902da0cf68b2686c8
+  tagname: p4
+  OR: 滋脾養胃, 消化飮食, 神麴(炒)ㆍ麥芽(炒)ㆍ半夏麴ㆍ陳皮ㆍ蓮肉ㆍ枳殼ㆍ縮砂ㆍ甘草 各一兩. 右爲末, 陳米飯和丸梧子大, 米飮呑下百丸. <small>《必用》</small>
+  KO: 비를 자양하고 위(胃)를 기르며 음식을 소화시킨다. 신국(볶는다)ㆍ맥아(볶는다)ㆍ반하국ㆍ진피ㆍ연육ㆍ지각ㆍ사인ㆍ감초 각 1냥. 이 약들을 가루내고 묵은쌀로 지은 밥에 반죽하여 오자대로 환을 만든다. 미음에 100알씩 먹는다. <small>《필용》</small>
+  EN: Tonifies the spleen, nurtures the stomach, and digests food. 1 nyang of <i>Massa Medicata Fermentata</i> (神麯) (fried), <i>Hordei Fructus Germinatus</i> (麥芽) (fried), <i>Pinelliae Tube Fermentata</i> (半夏麴), <i>Citrus Unshius Pericarpium</i> (陳皮), <i>Nelumbinis Semen</i> (蓮肉), <i>Aruantii Fructus Immaturus</i> (枳殼), <i>Amomi Fructus</i> (砂仁) and <i>Glycyrrhizae Radix</i> (甘草). Grind these into powder, mix with old rice that was cooked, and make pills in the size of a seed of a foxglove tree. Take 100 pills at a time with the rice gruel. <small>B097</small>
+
+- contents_id: 3e09530bfdfb4784f7988c77421295f78b279df9ef4cd6839d6d1c6bb79fc820
+  tagname: h4
+  OR: 健脾丸
+  KO: 건비환
+  EN: Strengthen Spleen Pill
+
+- contents_id: 29a0ceb7478f724494b8f8ce71b2ff6e3075e660197e2e69fb02704fb877e4a2
+  tagname: p4
+  OR: 健脾胃, 進飮食, 消化水穀. 白朮 五兩, 白茯苓ㆍ白芍藥ㆍ半夏(薑製) 各三兩, 陳皮ㆍ神麴ㆍ山査肉ㆍ當歸(酒洗)ㆍ川芎 各二兩. 右爲末, 煮荷葉湯作米糊和丸梧子大, 白湯下百丸. <small>《必用》</small>
+  KO: 비위를 튼튼하게 하여 음식을 먹게 하고 수곡을 소화시킨다. 백출 5냥, 백복령ㆍ백작약ㆍ반하(생강즙에 담갔다 말린다) 각 3냥, 진피ㆍ신국ㆍ산사육ㆍ당귀(술로 씻는다)ㆍ천궁 각 2냥. 이 약들을 가루내고 연잎 달인 물로 쑨 쌀풀로 반죽하여 오자대로 환을 만든다. 끓인 물에 100알씩 먹는다. <small>《필용》</small>
+  EN: Tonifies the spleen and stomach and makes one eat food and digest grain. Prepare 5 nyangs of <i>Atractylodis Rhizoma Alba</i> (白朮), 3 nyangs of <i>Poria Sclerotium</i> (白茯苓), <i>Paeoniae Radix Alba</i> (白芍藥) and <i>Pinelliae Tuber</i> (半夏) (soaked in ginger juice and dried), and 2 nyangs of <i>Citrus Unshius Pericarpium</i> (陳皮), <i>Massa Medicata Fermentata</i> (神麯), <i>Crataegi Fructus</i> (山査肉), <i>Angelica Gigantis Radix</i> (當歸) (washed with alcohol) and <i>Cnidii Rhizoma</i> (川芎). Grind these into powder, make into a rice paste made with a decoction of lotus leaf, and make pills in the size of a seed of a foxglove tree. Take 100 pills with boiled water. <small>B097</small>
+
+- contents_id: 2373f8f656eeb82d72df811561daece9829a6b01b69531e671cd294ffcfa8095
+  tagname: h3
+  OR: 立春節
+  KO: 입춘절
+  EN: Onset of Spring
+
+- contents_id: 8672d33bb3c6f4059e932d0aefb6e0e9928d2ecfaec1740cd298c19f95943c01
+  tagname: p3
+  OR: 自立春入節日始計, 至春分通計四十五日而止, 或餘一日則棄之不用, 以下倣此.
+  KO: 입춘에서 시작하여 춘분까지의 날 수는 45일이다. 간혹 1일이 남기도 하지만 사용하지 않는다. 다음에 나오는 것들도 이와 같다.
+  EN: The number of days from the onset of spring to the vernal equinox is 45 days. Sometimes there is one additional day, but that one extra day is not counted. The following adheres to the same principle.
+
+- contents_id: 746f0bae12199ecb3ecc9dd2c2231abf2cda69d7d3c2f29d083075e664594a25
+  tagname: h1
+  OR: 內景篇卷之一
+  KO: 내경편 권1
+
+- id: a7289b192c
+  tagname: p1
+  OR: 開口便知風與熱,
+  KO: 입을 벌리고 空氣를 마셔 보면 곧 風과 熱의 原因을 알 수 있다.
+
+- contents_id: b75c3e52ad4e87f56169b600ed4b8f471580fb3bba55c107cd855843838d986a
+  tagname: table3
+  OR: '''	一日	十日	十九日	二十八日	三十七日	忌左脚足 	二日	十一日	二十日	二十九日	三十八日	忌頭首喉膺
+	三日	十二日	二十一日	三十日	三十九日	忌腰尻下竅
+	四日	十三日	二十二日	三十一日	四十日	忌右肩臂
+	五日	十四日	二十三日	三十二日	四十一日	忌左脇
+	六日	十五日	二十四日	三十三日	四十二日	忌左肩臂
+	七日	十六日	二十五日	三十四日	四十三日	忌臟腑膈下
+	八日	十七日	二十六日	三十五日	四十四日	忌右脚足
+	九日	十八日	二十七日	三十六日	四十五日	忌右脇'''
+  KO: '''	1일	10일	19일	28일	37일	왼쪽 다리와 발을 조심한다.
+	2일	11일	20일	29일	38일	머리ㆍ목구멍ㆍ가슴을 조심한다.
+	3일	12일	21일	30일	39일	허리ㆍ꽁무니ㆍ전음ㆍ후음을 조심한다.
+	4일	13일	22일	31일	40일	오른쪽 어깨와 팔을 조심한다.
+	5일	14일	23일	32일	41일	왼쪽 옆구리를 조심한다.
+	6일	15일	24일	33일	42일	왼쪽 어깨와 팔을 조심한다.
+	7일	16일	25일	34일	43일	횡격막 아래 장부를 조심한다.
+	8일	17일	26일	35일	44일	오른쪽 다리와 발을 조심한다.
+	9일	18일	27일	36일	45일	오른쪽 옆구리를 조심한다.'''
+  EN: '''	1st day	10th day	19th day	28th day	37th day	Be careful with the left leg and foot.
+	2nd day	11th day	20th day	29th day	38th day	Be careful with the head, throat, and thorax.
+	3rd day	12th day	21st day	30th day	39th day	Be careful with the lumbar region, coccyx, and anterior and posterior yin.
+	4th day	13th day	22nd day	31st day	40th day	Be careful with the right shoulder and arm.
+	5th day	14th day	23rd day	32nd day	41st day	Be careful with the left hypochondirum.
+	6th day	15th day	24th day	33rd day	42nd day	Be careful with the left shoulder and arm.
+	7th day	16th day	25th day	34th day	43rd day	Be careful with both viscera and bowels, and Below the diaphragm.
+	8th day	17th day	26th day	35th day	44th day	Be careful with the right leg and foot.
+	9th day	18th day	27th day	36th day	45th day	Be careful with the right hypochondrium.'''
