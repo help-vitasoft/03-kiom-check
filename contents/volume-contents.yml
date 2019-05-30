@@ -1,4 +1,4 @@
-- contents_id: 746f0bae12199ecb3ecc9dd2c2231abf2cda69d7d3c2f29d083075e664594a25
+- contents_id: 1
   tagname: h1
   OR: 內景篇卷之一
   KO: 내경편 권1
@@ -19,13 +19,13 @@
   KO: 동의보감 서문[^2]
   EN: Preface
 
-- contents_id: 746f0bae12199ecb3ecc9dd2c2231abf2cda69d7d3c2f29d083075e664594a25
+- contents_id: 2
   tagname: h1
   OR: 內景篇卷之一
   KO: 내경편 권1
   EN: Internal Bodily Elements, Volume 1
 
-- content_id: "hashcode"
+- contents_id: "hashcode"
   tagname: "p1"
   class: "['desc']"
   OR: "御醫 忠勤貞亮扈聖功臣 崇祿大夫 陽平君 <small>臣</small> 許浚奉敎撰"
@@ -338,7 +338,7 @@
   KO: 숙식(宿食)을 소화시키고 비위를 따뜻하게 한다. 목향ㆍ정향 각 1돈, 백두구ㆍ인삼ㆍ후박ㆍ백출ㆍ신국ㆍ건생강ㆍ반하국ㆍ귤홍ㆍ곽향ㆍ감초(굽는다) 각 5푼. 이 약들을 썰어 1첩으로 하여 생강 3쪽, 대추 2개를 넣어 물에 달여 먹는다. <small>《단심》</small>
   EN: Treats retained food and warms the spleen and stomach. 1 dons of <i>Aucklandiae Radix</i> (木香) and <i>Syzygii Flos</i> (丁香), 5 puns of <i>Amomi Fructus Rotundus</i> (白豆蔲), <i>Ginseng Radix</i> (人參), <i>Magnoliae Cortex</i> (厚朴), <i>Atractylodis Rhizoma Alba</i> (白朮), <i>Massa Medicata Fermentata</i> (神麯), <i>Zingiberis Rhizoma</i> <i>Siccus</i> (乾生薑), <i>Pinelliae Tube Fermentata</i> (半夏麴), <i>Citrus Unshius Exocarpium</i> (橘紅), <i>Agastachis Herba</i> (藿香) and <i>Glycyrrhizae Radix</i> (甘草) (roasted). Cut into pieces, put them in one packet, add 3 pieces of <i>Zingiberis Rhizoma Crudus</i> (生薑) and 2 pieces of <i>Zizyphi Fructus</i> (大棗) and decoct in water to take. <small>B073</small>
 
-- contents_id: 746f0bae12199ecb3ecc9dd2c2231abf2cda69d7d3c2f29d083075e664594a25
+- contents_id: 3
   tagname: h1
   OR: 內景篇卷之一
   KO: 내경편 권1
@@ -578,12 +578,12 @@
   KO: 입춘에서 시작하여 춘분까지의 날 수는 45일이다. 간혹 1일이 남기도 하지만 사용하지 않는다. 다음에 나오는 것들도 이와 같다.
   EN: The number of days from the onset of spring to the vernal equinox is 45 days. Sometimes there is one additional day, but that one extra day is not counted. The following adheres to the same principle.
 
-- contents_id: 746f0bae12199ecb3ecc9dd2c2231abf2cda69d7d3c2f29d083075e664594a25
+- contents_id: 4
   tagname: h1
   OR: 內景篇卷之一
   KO: 내경편 권1
 
-- id: a7289b192c
+- contents_id: a7289b192c
   tagname: p1
   OR: 開口便知風與熱,
   KO: 입을 벌리고 空氣를 마셔 보면 곧 風과 熱의 原因을 알 수 있다.
