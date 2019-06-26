@@ -1,9 +1,9 @@
 - vomlue_id: 1
   service:
     ORginal: True
-    Ancient_Korean: False
+    Ancient_Korean: false
     KOrean: admin
-    EXplanation: False
+    EXplanation: false
     ENglish: editor
   translator: 김형준
   permission:
@@ -28,6 +28,7 @@
   service:
     ORginal: True
     KOrean: admin
+    ENglish: editor
   translator: 김형준
   permission:
     editor: aaabbb@hanmail.net

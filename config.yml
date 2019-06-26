@@ -1,0 +1,57 @@
+name:
+   OR: 東醫寶鑑
+   KO: 동의보감
+   EN: DonguiBogam
+auth:
+   OR: 許浚
+   KO: 허준
+   EN: Heo Joon
+alias: 동감, 허허보감
+publish_year: 1613
+copyright: CC(BY-NC-ND) 4.0
+#CHILD TABLE
+#종합의방, 분과 > 부인소아
+book_category: [book-category-3, book-category-4-1]
+#book
+toc_level: 3
+content_level: 3
+ebook_service: true
+ebook_publish_date: 2017-04-04
+paperbook_publish_date: 2018-07-07
+#CHILD TABLE
+service_link:
+    - name: 원문배포(web)
+      link: http://info.mediclassics.kr/apps/dist-texts/index.html#/Book/8#mybook
+    - name: 내손안에동의보감(iOS용)
+      link: https://itunes.apple.com/kr/app/naeson-an-e-dong-uibogam/id910090103?mt=8
+    - name: 내손안에동의보감(android용)
+      link: https://play.google.com/store/apps/details?id=kr.re.kiom.donguibogam&hl=ko
+    - name: 국립중앙도서관
+      link: http://www.nl.go.kr/nl/search/SearchDetail.nl?category_code=ct&service=KOLIS&vdkvgwkey=1130669&colltype=DAN_OLD&place_code_info=104&place_name_info=%EB%94%94%EC%A7%80%ED%84%B8%EC%97%B4%EB%9E%8C%EC%8B%A4&manage_code=MA&shape_code=B&refLoc=null&category=dan&srchFlag=Y&h_kwd=%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90&lic_yn=N&mat_code=RB#
+    - name: 장서각
+      link: http://lib.aks.ac.kr/DLIWEB20/components/searchir/detail/detail.aspx?cid=116799
+    - name: 규장각
+      link: http://e-kyujanggak.snu.ac.kr/home/index.do?idx=06&siteCd=KYU&topMenuId=206&targetId=379&gotourl=http://e-kyujanggak.snu.ac.kr/home/MOK/CONVIEW.jsp?type=MOK^ptype=list^subtype=sm^lclass=AL^ntype=sj^cn=GK01933_00
+#book P1
+Quality: book-grade-1
+editions:
+  admin_display: 규장각본
+  main_hanja: 사고전서
+  sub_hanja: 규장각본, 동양문고본
+  main_trans: 규장각본
+  sub_trans:
+contents:
+     translator_all: 윤석희
+     permission_all:
+      #한선영
+       editor: 한선영
+      #김민선
+       meta_mean: 김민선
+      #차웅석
+       meta_prescription: 차웅석
+     service_all:
+       ORginal: true
+       Ancient_Korean: false
+       EXplanation: false
+       KOrean: true
+       ENglish: true
