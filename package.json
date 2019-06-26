@@ -1,7 +1,7 @@
 {
   "name": "vita-check",
   "main": "./lib/vita-check",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "description": "help-vitasoft",
   "keywords": [],
   "activationCommands": {
