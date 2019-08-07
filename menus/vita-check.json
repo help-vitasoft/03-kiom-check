@@ -12,10 +12,10 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "vitasoft-kiom",
+          "label": "kiom",
           "submenu": [
             {
-              "label": "vita-check",
+              "label": "kiom-check",
               "command": "vita-check:toggle"
             }
           ]
