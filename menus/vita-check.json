@@ -15,7 +15,7 @@
           "label": "kiom",
           "submenu": [
             {
-              "label": "kiom-check",
+              "label": "03-kiom-check",
               "command": "vita-check:toggle"
             }
           ]
