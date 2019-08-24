@@ -1,7 +1,7 @@
 {
   "name": "03-kiom-check",
   "main": "./lib/vita-check",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "help-vitasoft",
   "keywords": [],
   "activationCommands": {
